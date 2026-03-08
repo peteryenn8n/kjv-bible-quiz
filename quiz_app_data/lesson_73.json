@@ -1,171 +1,535 @@
 [
   {
-    "w": "asleep",
-    "r": "4:21",
-    "v": "[4:18] And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle. [4:19] And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him. [4:20] Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and enquire of thee, and say, Is there any man here? that thou shalt say, No. ⭐[4:21] Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died. [4:22] And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her tent, behold, Sisera lay dead, and the nail was in his temples. [4:23] So God subdued on that day Jabin the king of Canaan before the children of Israel. [4:24] And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.",
-    "ed": "In a state of sleep; not awake.",
-    "cd": "睡著；未醒。",
-    "ex": "在睡眠狀態中；尚未清醒。",
+    "w": "gammadims",
+    "r": "27:11",
+    "v": "[27:8] The inhabitants of Zidon and Arvad were thy mariners: thy wise men, O Tyrus, that were in thee, were thy pilots. [27:9] The ancients of Gebal and the wise men thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise. [27:10] They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness. ⭐[27:11] The men of Arvad with thine army were upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect. [27:12] Tarshish was thy merchant by reason of the multitude of all kind of riches; with silver, iron, tin, and lead, they traded in thy fairs. [27:13] Javan, Tubal, and Meshech, they were thy merchants: they traded the persons of men and vessels of brass in thy market. [27:14] They of the house of Togarmah traded in thy fairs with horses and horsemen and mules.",
+    "ed": "Gammadims",
+    "cd": "迦馬德人",
+    "ex": "迦馬德人的意思是指在提爾城牆周圍的軍隊，他們懸掛盾牌並使城市的美觀更加完美。",
     "ds": [
-      "巴珊哈弗oth雅是出埃及記中提到的地名，出自申命記第三章第十四節，耶air的兒子瑪拿西斯控制了該地區並將其以自己的名字命名。",
-      "獻，獻上；指將某物專門用於特定目的，特別是在宗教情境下。",
-      "播散紛爭意指在人們之間製造或散播分歧和衝突。"
+      "bags - containers made of cloth or other flexible materials for carrying goods or articles; here referring to pouches or sacks used to carry silver and garments.",
+      "The act of conversing or conferring; consultation.",
+      "A person's name, likely referring to Dodo, a son of Puah from the tribe of Issachar."
     ]
   },
   {
-    "w": "despisest",
-    "r": "2:3",
-    "v": "[1:28] And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient; 1:29 Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers, 1:30 Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents, 1:31 Without understanding, covenantbreakers, without natural affection, implacable, unmerciful: 1:32 Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them. [2:1] Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things. [2:2] But we are sure that the judgment of God is according to truth against them which commit such things. ⭐[2:3] And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God? 2:4 Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance? 2:5 But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God; 2:6 Who will render to every man according to his deeds: 2:7 To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life: 2:8 But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath, 2:9 Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile; 2:10 But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile: 2:11 For there is no respect of persons with God. [2:12] For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law; [2:13] (For not the hearers of the law are just before God, but the doers of the law shall be justified. [2:14] For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves: 2:15 Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;) 2:16 In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.",
-    "ed": "To despise; to regard with contempt or disdain.",
-    "cd": "輕視；鄙視。",
-    "ex": "「despisest」意為輕視或鄙視某事物，表示對其持有極度的不尊重或蔑視態度。",
+    "w": "abhorrest",
+    "r": "7:16",
+    "v": "[7:12] But Ahaz said, I will not ask, neither will I tempt the LORD. [7:13] And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also? 7:14 Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel. [7:15] Butter and honey shall he eat, that he may know to refuse the evil, and choose the good. ⭐[7:16] For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings. [7:17] The LORD shall bring upon thee, and upon thy people, and upon thy father’s house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria. [7:18] And it shall come to pass in that day, that the LORD shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria. [7:19] And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.",
+    "ed": "to hate intensely; to detest",
+    "cd": "極其憎惡；深惡痛絕",
+    "ex": "abhorrest 指極其憎惡或深惡痛絕。在這句經文中，指的是以色列地被某國所厭棄。",
     "ds": [
-      "一個名字或稱號，可能是指某人的職位或身份。",
-      "一支有組織的軍隊；軍事力量。",
-      "極端的狀態或品質；遠處或偏僻的地方。"
+      "A place or region in Syria.",
+      "樣式，形制",
+      "A person of a particular nation or race; an ethnic group member."
     ]
   },
   {
-    "w": "eagle",
-    "r": "11:13",
-    "v": "[11:9] These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat. [11:10] And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you: 11:11 They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination. [11:12] Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you. ⭐[11:13] And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray, 11:14 And the vulture, and the kite after his kind; 11:15 Every raven after his kind; 11:16 And the owl, and the night hawk, and the cuckow, and the hawk after his kind, 11:17 And the little owl, and the cormorant, and the great owl, 11:18 And the swan, and the pelican, and the gier eagle, 11:19 And the stork, the heron after her kind, and the lapwing, and the bat. [11:20] All fowls that creep, going upon all four, shall be an abomination unto you. [11:21] Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth; 11:22 Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind. [11:23] But all other flying creeping things, which have four feet, shall be an abomination unto you.",
-    "ed": "A large bird of prey with a strong hooked beak and sharp talons.",
-    "cd": "鷹，一種大型的猛禽，具有強壯的曲嘴和銳利的爪子。",
-    "ex": "鷹：一種大型的猛禽，在經文中被列為不可食用的鳥類之一。在現代語境中，它指的是具有一對有力抓爪和彎曲喙頭的鳥類，常見於山林或草原地區。",
+    "w": "conclusion",
+    "r": "12:13",
+    "v": "[12:10] The preacher sought to find out acceptable words: and that which was written was upright, even words of truth. [12:11] The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd. [12:12] And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh. ⭐[12:13] Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man. [12:14] For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil. [1:1] The song of songs, which is Solomon’s. [1:2] Let him kiss me with the kisses of his mouth: for thy love is better than wine.",
+    "ed": "The final statement or summary of a discussion or argument.",
+    "cd": "總結；結論",
+    "ex": "結論是指討論或辯論的最後陳述或總結。",
     "ds": [
-      "認知；承認。",
-      "有用；能派上用場",
-      "令人滿意的方式；足夠好或相當好的方式。"
+      "A container for holding liquids or dry substances; a measure.",
+      "Hatita is a name used in the context of porters in the biblical passage.",
+      "Amen is used to express agreement or approval."
     ]
   },
   {
-    "w": "entries",
-    "r": "40:38",
-    "v": "[40:34] And the arches thereof were toward the outward court; and palm trees were upon the posts thereof, on this side, and on that side: and the going up to it had eight steps. [40:35] And he brought me to the north gate, and measured it according to these measures; 40:36 The little chambers thereof, the posts thereof, and the arches thereof, and the windows to it round about: the length was fifty cubits, and the breadth five and twenty cubits. [40:37] And the posts thereof were toward the utter court; and palm trees were upon the posts thereof, on this side, and on that side: and the going up to it had eight steps. ⭐[40:38] And the chambers and the entries thereof were by the posts of the gates, where they washed the burnt offering. [40:39] And in the porch of the gate were two tables on this side, and two tables on that side, to slay thereon the burnt offering and the sin offering and the trespass offering. [40:40] And at the side without, as one goeth up to the entry of the north gate, were two tables; and on the other side, which was at the porch of the gate, were two tables. [40:41] Four tables were on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew their sacrifices.",
-    "ed": "entrances or passages",
-    "cd": "入口或通道",
-    "ex": " entrances 或 passages 指的是進入某個地方的入口或者通道。",
+    "w": "aspatha",
+    "r": "9:7",
+    "v": "[9:4] For Mordecai was great in the king’s house, and his fame went out throughout all the provinces: for this man Mordecai waxed greater and greater. [9:5] Thus the Jews smote all their enemies with the stroke of the sword, and slaughter, and destruction, and did what they would unto those that hated them. [9:6] And in Shushan the palace the Jews slew and destroyed five hundred men. ⭐[9:7] And Parshandatha, and Dalphon, and Aspatha, 9:8 And Poratha, and Adalia, and Aridatha, 9:9 And Parmashta, and Arisai, and Aridai, and Vajezatha, 9:10 The ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; but on the spoil laid they not their hand. [9:11] On that day the number of those that were slain in Shushan the palace was brought before the king. [9:12] And the king said unto Esther the queen, The Jews have slain and destroyed five hundred men in Shushan the palace, and the ten sons of Haman; what have they done in the rest of the king’s provinces? now what is thy petition? and it shall be granted thee: or what is thy request further? and it shall be done. [9:13] Then said Esther, If it please the king, let it be granted to the Jews which are in Shushan to do to morrow also according unto this day’s decree, and let Haman’s ten sons be hanged upon the gallows.",
+    "ed": "A person's name",
+    "cd": "阿斯帕薩，人名",
+    "ex": "aspatha - 阿斯帕薩，人名：這是一個名字，可能是希臘或波斯的名字。",
     "ds": [
-      "軍長或指揮官；管家或家中的監督者。",
-      "海底；低處",
-      "不良的狀態或性質；惡劣。"
+      "The state or quality of being abundant; plentifulness.",
+      "A belt or sash used to fasten clothing.",
+      "預先決定"
     ]
   },
   {
-    "w": "ceiling",
-    "r": "6:15",
-    "v": "[6:10] And then he built chambers against all the house, five cubits high: and they rested on the house with timber of cedar. [6:11] And the word of the LORD came to Solomon, saying, 6:12 Concerning this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spake unto David thy father: 6:13 And I will dwell among the children of Israel, and will not forsake my people Israel. [6:14] So Solomon built the house, and finished it. ⭐[6:15] And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the ceiling: and he covered them on the inside with wood, and covered the floor of the house with planks of fir. [6:16] And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built them for it within, even for the oracle, even for the most holy place. [6:17] And the house, that is, the temple before it, was forty cubits long. [6:18] And the cedar of the house within was carved with knops and open flowers: all was cedar; there was no stone seen.",
-    "ed": "The uppermost internal surface of a room or building; the roof or vaulting within.",
-    "cd": "天花板；屋頂或建築物內部的拱形天花板。",
-    "ex": "天花板是指室內或建築物最上層的表面，可以是簡單的平頂也可以是拱形的 Vaulting 指的是拱形的天花板結構。",
+    "w": "heleb",
+    "r": "23:27",
+    "v": "[23:22] These things did Benaiah the son of Jehoiada, and had the name among three mighty men. [23:23] He was more honourable than the thirty, but he attained not to the first three. And David set him over his guard. [23:24] Asahel the brother of Joab was one of the thirty; Elhanan the son of Dodo of Bethlehem, 23:25 Shammah the Harodite, Elika the Harodite, 23:26 Helez the Paltite, Ira the son of Ikkesh the Tekoite, ⭐[23:27] Abiezer the Anethothite, Mebunnai the Hushathite, 23:28 Zalmon the Ahohite, Maharai the Netophathite, 23:29 Heleb the son of Baanah, a Netophathite, Ittai the son of Ribai out of Gibeah of the children of Benjamin, 23:30 Benaiah the Pirathonite, Hiddai of the brooks of Gaash, 23:31 Abialbon the Arbathite, Azmaveth the Barhumite, 23:32 Eliahba the Shaalbonite, of the sons of Jashen, Jonathan, 23:33 Shammah the Hararite, Ahiam the son of Sharar the Hararite, 23:34 Eliphelet the son of Ahasbai, the son of the Maachathite, Eliam the son of Ahithophel the Gilonite, 23:35 Hezrai the Carmelite, Paarai the Arbite, 23:36 Igal the son of Nathan of Zobah, Bani the Gadite, 23:37 Zelek the Ammonite, Nahari the Beerothite, armourbearer to Joab the son of Zeruiah, 23:38 Ira an Ithrite, Gareb an Ithrite, 23:39 Uriah the Hittite: thirty and seven in all. [24:1] And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah. [24:2] For the king said to Joab the captain of the host, which was with him, Go now through all the tribes of Israel, from Dan even to Beersheba, and number ye the people, that I may know the number of the people. [24:3] And Joab said unto the king, Now the LORD thy God add unto the people, how many soever they be, an hundredfold, and that the eyes of my lord the king may see it: but why doth my lord the king delight in this thing? 24:4 Notwithstanding the king’s word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel.",
+    "ed": "Heleb is a Netophathite son of Baanah.",
+    "cd": "赫勒布是巴拿哈的內陀法提人兒子。",
+    "ex": "赫勒布 (Heleb) 是巴拿哈 (Baanah) 的內陀法提 (Netophathite) 人兒子。",
     "ds": [
-      "使徒職任或使命",
-      "「八十」是指數字80。",
-      "輕蔑的；無價值的"
+      "The king of Grecia",
+      "A person's name or a position in ancient times",
+      "To pitch a tent or to stay overnight in a camp."
     ]
   },
   {
-    "w": "delightest",
-    "r": "51:16",
-    "v": "[51:13] Then will I teach transgressors thy ways; and sinners shall be converted unto thee. [51:14] Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness. [51:15] O Lord, open thou my lips; and my mouth shall shew forth thy praise. ⭐[51:16] For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering. [51:17] The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise. [51:18] Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem. [51:19] Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
-    "ed": "To delight in; to take pleasure in.",
-    "cd": "喜愛；欣賞。",
-    "ex": "「delightest」意為「喜愛；欣賞」，表示上帝並不是喜歡燔祭，而是更喜歡悔改的心靈。",
+    "w": "athaiah",
+    "r": "11:4",
+    "v": "[11:1] And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities. [11:2] And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem. [11:3] Now these are the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, to wit, Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon’s servants. ⭐[11:4] And at Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez; 11:5 And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni. [11:6] All the sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men. [11:7] And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah. [11:8] And after him Gabbai, Sallai, nine hundred twenty and eight.",
+    "ed": "Athaiah is a name.",
+    "cd": "阿塔亞是個名字。",
+    "ex": "阿塔亞（Athaiah）是一個名字，在希伯來文經文中出現，指的是耶路撒冷的一位居民。",
     "ds": [
-      "人體下背部的部位；臀部。",
-      "祝福；賜福",
-      "非猶太人；不信猶太教的人。"
+      "the ruler of part of Mizpah",
+      "A small reservoir for storing water, especially one cut in rock or built of masonry.",
+      "A mixture of gray and white or black and white; mottled."
     ]
   },
   {
-    "w": "christian",
-    "r": "26:28",
-    "v": "[26:25] But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness. [26:26] For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner. [26:27] King Agrippa, believest thou the prophets? I know that thou believest. ⭐[26:28] Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian. [26:29] And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds. [26:30] And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them: 26:31 And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds. [26:32] Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar.",
-    "ed": "指接近成為基督徒的狀態或行為",
-    "cd": "接近成為基督徒的狀態或行為",
-    "ex": "英文：指接近成為基督徒的狀態或行為\n中文：接近成為基督徒的狀態或行為",
+    "w": "bethesda",
+    "r": "5:2",
+    "v": "[4:53] So the father knew that it was at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house. [4:54] This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee. [5:1] After this there was a feast of the Jews; and Jesus went up to Jerusalem. ⭐[5:2] Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches. [5:3] In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water. [5:4] For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had. [5:5] And a certain man was there, which had an infirmity thirty and eight years.",
+    "ed": "Bethesda is a pool in Jerusalem mentioned in the Gospel of John, which is associated with miraculous healings.",
+    "cd": "bethesda 是約翰福音中提到的一個位於耶路撒冷的池子，與神蹟 Healing 有關。",
+    "ex": "bethesda 是一個地名，在《約翰福音》中被提及，是一個位於耶路撒冷的池塘，與神跡 healing 密切相關。這處池塘因天使攪動水而成為了病患祈求康復的地方。",
     "ds": [
-      "相同；一樣",
-      "發現；碰見",
-      "恐懼；害怕"
+      "small pieces of cloth used to wipe one's nose or mouth",
+      "To annul or invalidate; to make void.",
+      "The superlative form of 'fat', indicating the most fat or obese among a group."
     ]
   },
   {
-    "w": "farewell",
-    "r": "9:61",
-    "v": "[9:58] And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head. [9:59] And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father. [9:60] Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God. ⭐[9:61] And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house. [9:62] And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God. [10:1] After these things the LORD appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come. [10:2] Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.",
-    "ed": "A leave-taking or parting expression; a farewell.",
-    "cd": "一個道別或告別的詞語。",
-    "ex": "「farewell」在這段經文中指的是與家人或朋友告別時所說的話，表示將要離去。",
+    "w": "guiltless",
+    "r": "20:7",
+    "v": "[20:3] Thou shalt have no other gods before me. [20:4] Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. [20:5] Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; 20:6 And shewing mercy unto thousands of them that love me, and keep my commandments. ⭐[20:7] Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain. [20:8] Remember the sabbath day, to keep it holy. [20:9] Six days shalt thou labour, and do all thy work: 20:10 But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: 20:11 For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it. [20:12] Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.",
+    "ed": "Not guilty; free from blame.",
+    "cd": "無罪的；無過的。",
+    "ex": "「guiltless」在這段經文中的意思是指那些沒有犯下褻瀆神名之罪的人，因為耶和華不會放過褻瀆祂名號的人。",
     "ds": [
-      "煙囪，指煙霧或灰塵從其中排出的地方。",
-      "多โด，以斯迦南支派丕亞的兒子，後巴別拉起義守以色列。",
-      "羞愧；臉紅。"
+      "A place name",
+      "Referring to the people of Gadara, a city in ancient Syria.",
+      "Canaanite refers to a person from the ancient region of Canaan."
     ]
   },
   {
-    "w": "birthday",
-    "r": "40:20",
-    "v": "[40:14] But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house: 40:15 For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon. [40:16] When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head: 40:17 And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head. [40:18] And Joseph answered and said, This is the interpretation thereof: The three baskets are three days: 40:19 Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee. ⭐[40:20] And it came to pass the third day, which was Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants. [40:21] And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand: 40:22 But he hanged the chief baker: as Joseph had interpreted to them. [40:23] Yet did not the chief butler remember Joseph, but forgat him. [41:1] And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.",
-    "ed": "A day commemorating one's birth or that of a significant person.",
-    "cd": "生日；紀念出生的日子。",
-    "ex": "英漢雙解：生日是指紀念某人出生的日子，特別是在此段經文中指的是法老王的個人慶祝日。",
+    "w": "created",
+    "r": "1:1",
+    "v": "⭐[1:1] In the beginning God created the heaven and the earth. [1:2] And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. [1:3] And God said, Let there be light: and there was light. [1:4] And God saw the light, that it was good: and God divided the light from the darkness.",
+    "ed": "To bring into existence; to cause to come into being.",
+    "cd": "創造；產生。",
+    "ex": "「created」在這句經文中意指「創造」或「產生」，表示上帝將天地帶入存在。",
     "ds": [
-      "滿的；充滿的。",
-      "與對手或困難搏鬥；參與戰鬥。",
-      "深思或沉思，特別是那些深刻或認真的思考。"
+      "Bamoth refers to a place or location in the wilderness of Moab.",
+      "A blessing; a benediction.",
+      "Edrei is a place name mentioned in the Bible where Og, king of Bashan, fought against the Israelites."
     ]
   },
   {
-    "w": "camon",
-    "r": "10:5",
-    "v": "[10:2] And he judged Israel twenty and three years, and died, and was buried in Shamir. [10:3] And after him arose Jair, a Gileadite, and judged Israel twenty and two years. [10:4] And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havothjair unto this day, which are in the land of Gilead. ⭐[10:5] And Jair died, and was buried in Camon. [10:6] And the children of Israel did evil again in the sight of the LORD, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the LORD, and served not him. [10:7] And the anger of the LORD was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon. [10:8] And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that were on the other side Jordan in the land of the Amorites, which is in Gilead.",
-    "ed": "A place where Jair was buried.",
-    "cd": "卡摩恩，即雅各之墓。",
-    "ex": "卡摩恩 - 卡摩恩是雅各的墳墓。",
+    "w": "goodly",
+    "r": "27:15",
+    "v": "[27:11] And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man: 27:12 My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing. [27:13] And his mother said unto him, Upon me be thy curse, my son: only obey my voice, and go fetch me them. [27:14] And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved. ⭐[27:15] And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son: [27:16] And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck: 27:17 And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob. [27:18] And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son? 27:19 And Jacob said unto his father, I am Esau thy first born; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me. [27:20] And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the LORD thy God brought it to me.",
+    "ed": "Describing something as goodly means it is of good appearance or quality; it can also imply that something is generous or abundant.",
+    "cd": "形容某事物為goodly意指其外觀或品質良好；亦可表達該事物慷慨或豐盛。",
+    "ex": "形容詞，用來描述事物的優良外觀或質量，也可能暗示慷慨或豐富。",
     "ds": [
-      "揭露或發現某件先前未知的事物。",
-      "用烤箱或其他裝置以乾熱方式烹調；烘烤。",
-      "巴爾撒芬是舊約聖經中提到的一個地名，位於紅海之側。"
+      "To consider or reckon as being included in a total; to regard as part of a whole.",
+      "In this context, 'chief' refers to a leader or commander of an army or group.",
+      "To prepare food by dry heat, typically in an oven."
     ]
   },
   {
-    "w": "ephraim",
-    "r": "41:52",
-    "v": "[41:49] And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number. [41:50] And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him. [41:51] And Joseph called the name of the firstborn Manasseh: For God, said he, hath made me forget all my toil, and all my father’s house. ⭐[41:52] And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction. [41:53] And the seven years of plenteousness, that was in the land of Egypt, were ended. [41:54] And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread. [41:55] And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.",
-    "ed": "Ephraim is Joseph's second son and his name signifies 'God hath caused me to be fruitful in the land of my affliction.'",
-    "cd": "以法利是約瑟的次子，他的名字意為「神使我肥沃在苦難之地」。",
-    "ex": "Ephraim 是約瑟的次子，其名意思為「神使我肥沃在苦難之地」。",
+    "w": "beneberak",
+    "r": "19:41",
+    "v": "[19:35] And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth, 19:36 And Adamah, and Ramah, and Hazor, 19:37 And Kedesh, and Edrei, and Enhazor, 19:38 And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages. [19:39] This is the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages. [19:40] And the seventh lot came out for the tribe of the children of Dan according to their families. ⭐[19:41] And the coast of their inheritance was Zorah, and Eshtaol, and Irshemesh, 19:42 And Shaalabbin, and Ajalon, and Jethlah, 19:43 And Elon, and Thimnathah, and Ekron, 19:44 And Eltekeh, and Gibbethon, and Baalath, 19:45 And Jehud, and Beneberak, and Gathrimmon, 19:46 And Mejarkon, and Rakkon, with the border before Japho. [19:47] And the coast of the children of Dan went out too little for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father. [19:48] This is the inheritance of the tribe of the children of Dan according to their families, these cities with their villages. [19:49] When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them: 19:50 According to the word of the LORD they gave him the city which he asked, even Timnathserah in mount Ephraim: and he built the city, and dwelt therein.",
+    "ed": "Beneberak is a city mentioned in the Bible as part of the inheritance of the tribe of Dan.",
+    "cd": "beneberak 是《聖經》中提到的一座城，屬於丹支派的產業之一。",
+    "ex": "beneberak - Beneberak 是一個出現在《聖經》中的地名，是丹支派的份地之一。",
     "ds": [
-      "阿扎南是出現在聖經中，為伊施迦沙部落長官的名字，其父為帕拿赫。",
-      "衣索比亞人或其後裔的人。",
-      "疾病"
+      "To cure or restore to health; to heal.",
+      "to put to a test; to try out",
+      "being the first in order of birth or age"
     ]
   },
   {
-    "w": "fishes",
-    "r": "9:2",
-    "v": "[8:21] And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done. [8:22] While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease. [9:1] And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth. ⭐[9:2] And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered. [9:3] Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things. [9:4] But flesh with the life thereof, which is the blood thereof, shall ye not eat. [9:5] And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.",
-    "ed": "指所有海洋生物，包括魚類。",
-    "cd": "指所有海中生物，包括魚類。",
-    "ex": "英：指所有海洋生物，包括魚類。/  中：指所有海中生物，包括魚類。",
+    "w": "gadites",
+    "r": "3:12",
+    "v": "[3:7] But all the cattle, and the spoil of the cities, we took for a prey to ourselves. [3:8] And we took at that time out of the hand of the two kings of the Amorites the land that was on this side Jordan, from the river of Arnon unto mount Hermon; 3:9 (Which Hermon the Sidonians call Sirion; and the Amorites call it Shenir;) 3:10 All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan. [3:11] For only Og king of Bashan remained of the remnant of giants; behold his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man. ⭐[3:12] And this land, which we possessed at that time, from Aroer, which is by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites. [3:13] And the rest of Gilead, and all Bashan, being the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants. [3:14] Jair the son of Manasseh took all the country of Argob unto the coasts of Geshuri and Maachathi; and called them after his own name, Bashanhavothjair, unto this day. [3:15] And I gave Gilead unto Machir.",
+    "ed": "Refers to a group or people mentioned in the context of the passage.",
+    "cd": "指經文中提到的一個團體或人群。",
+    "ex": "在這段經文的上下文中，'gadites' 可以被解釋為一個被提及的團體或人群。",
     "ds": [
-      "忘記的狀態或情況；容易忘記的傾向。",
-      "安那斯是耶穌時代的一位大祭司的名字。",
-      "一個地區嚴重缺乏食物的情況"
+      "To bend means to make something curved or not straight.",
+      "To assign or attribute (a quality, action, etc.) to someone or something; to regard as the cause of.",
+      "to arrive; to go to a place"
     ]
   },
   {
-    "w": "equal",
-    "r": "28:17",
-    "v": "[28:14] The depth saith, It is not in me: and the sea saith, It is not with me. [28:15] It cannot be gotten for gold, neither shall silver be weighed for the price thereof. [28:16] It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire. ⭐[28:17] The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold. [28:18] No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies. [28:19] The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold. [28:20] Whence then cometh wisdom? and where is the place of understanding? 28:21 Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.",
-    "ed": "to be the same in quantity or value; to match",
-    "cd": "相等；相當",
-    "ex": "相等：指在數量或價值上相同；相當：指在某方面可以相比。",
+    "w": "asking",
+    "r": "12:17",
+    "v": "[12:13] Now therefore behold the king whom ye have chosen, and whom ye have desired! and, behold, the LORD hath set a king over you. [12:14] If ye will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both ye and also the king that reigneth over you continue following the LORD your God: 12:15 But if ye will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as it was against your fathers. [12:16] Now therefore stand and see this great thing, which the LORD will do before your eyes. ⭐[12:17] Is it not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that ye may perceive and see that your wickedness is great, which ye have done in the sight of the LORD, in asking you a king. [12:18] So Samuel called unto the LORD; and the LORD sent thunder and rain that day: and all the people greatly feared the LORD and Samuel. [12:19] And all the people said unto Samuel, Pray for thy servants unto the LORD thy God, that we die not: for we have added unto all our sins this evil, to ask us a king. [12:20] And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart; 12:21 And turn ye not aside: for then should ye go after vain things, which cannot profit nor deliver; for they are vain.",
+    "ed": "To request or inquire; to beg for.",
+    "cd": "請求；請願。",
+    "ex": "「 Asking 」在這句話中意指請求或請願。",
     "ds": [
-      "收集；獲得（特別指穀物）；獲取",
-      "碎屑；殘渣",
-      "卡斐託人是指從迦斐託而來，毀滅哈色人和亞薩的人的民族。"
+      "A city in Syria.",
+      "Mount Ararat",
+      "falsehoods or tricks intended to deceive someone"
+    ]
+  },
+  {
+    "w": "causeway",
+    "r": "26:16",
+    "v": "[26:13] And they cast lots, as well the small as the great, according to the house of their fathers, for every gate. [26:14] And the lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counsellor, they cast lots; and his lot came out northward. [26:15] To Obededom southward; and to his sons the house of Asuppim. ⭐[26:16] To Shuppim and Hosah the lot came forth westward, with the gate Shallecheth, by the causeway of the going up, ward against ward. [26:17] Eastward were six Levites, northward four a day, southward four a day, and toward Asuppim two and two. [26:18] At Parbar westward, four at the causeway, and two at Parbar. [26:19] These are the divisions of the porters among the sons of Kore, and among the sons of Merari.",
+    "ed": "A raised way or embankment over marshy ground, typically constructed of earth and stone; a road across water or low-lying land.",
+    "cd": "一個高出地面的路，通常用土石建造，穿越沼澤地或低窪地區。",
+    "ex": "Causeway 指的是跨越溼地或低窪地區的高起道路，通常是用泥土和石頭建造的。在這段經文中，它描述了一個通往北方的大門的道路。",
+    "ds": [
+      "A lack of rain over an extended period that causes water scarcity and can harm crops and livestock.",
+      "Aram is a son of Shem and an ancestor in the lineage leading to Eber.",
+      "to unite or combine for a common purpose; to form a group or association"
+    ]
+  },
+  {
+    "w": "appeal",
+    "r": "25:11",
+    "v": "[25:7] And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove. [25:8] While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Caesar, have I offended any thing at all. [25:9] But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me? 25:10 Then said Paul, I stand at Caesar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest. ⭐[25:11] For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar. [25:12] Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Caesar? unto Caesar shalt thou go. [25:13] And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus. [25:14] And when they had been there many days, Festus declared Paul’s cause unto the king, saying, There is a certain man left in bonds by Felix: 25:15 About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him.",
+    "ed": "To appeal to a higher court or authority; to challenge formally.",
+    "cd": "向上訴請或向更高權威提出抗議。",
+    "ex": "「appeal」在此句中意指向更高的法庭或權威正式挑戰或上訴。",
+    "ds": [
+      "to admire; to look up to",
+      "A place name",
+      "Referring to the people of Gadara, a city in ancient Syria."
+    ]
+  },
+  {
+    "w": "bitten",
+    "r": "21:8",
+    "v": "[21:5] And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread. [21:6] And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died. [21:7] Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people. ⭐[21:8] And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live. [21:9] And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived. [21:10] And the children of Israel set forward, and pitched in Oboth. [21:11] And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which is before Moab, toward the sunrising.",
+    "ed": "被咬",
+    "cd": "受到毒蛇的攻擊，被咬傷。",
+    "ex": "英文解釋為“被咬”，中文解釋為「受到毒蛇的攻擊，被咬傷」。",
+    "ds": [
+      "To clap hands, to applaud",
+      "The act of showing extreme disrespect towards a religion or religious figure.",
+      "Greece in this context refers to a people or nation, likely used metaphorically."
+    ]
+  },
+  {
+    "w": "fenced",
+    "r": "32:16",
+    "v": "[32:13] And the LORD’s anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed. [32:14] And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel. [32:15] For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people. ⭐[32:16] And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones: 32:17 But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land. [32:18] We will not return unto our houses, until the children of Israel have inherited every man his inheritance. [32:19] For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward. [32:20] And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war, 32:21 And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him, 32:22 And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD.",
+    "ed": "Surrounded by a fence; enclosed.",
+    "cd": "圍牆；周圍有藩籬。",
+    "ex": "「fenced」指被藩籬或圍牆所包圍，形容某個地方被障礙物所環繞。",
+    "ds": [
+      "Haziel is a name mentioned in the Bible.",
+      "被釘在十字架上",
+      "pertaining to birds or insects that can fly"
+    ]
+  },
+  {
+    "w": "compassest",
+    "r": "139:3",
+    "v": "[138:8] The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever: forsake not the works of thine own hands. [139:1] O lord, thou hast searched me, and known me. [139:2] Thou knowest my downsitting and mine uprising, thou understandest my thought afar off. ⭐[139:3] Thou compassest my path and my lying down, and art acquainted with all my ways. [139:4] For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether. [139:5] Thou hast beset me behind and before, and laid thine hand upon me. [139:6] Such knowledge is too wonderful for me; it is high, I cannot attain unto it.",
+    "ed": "To encompass or surround; to encircle.",
+    "cd": "周圍；環繞。",
+    "ex": "compassest - 周圍；環繞。",
+    "ds": [
+      "implanted; inserted",
+      "Bethmarcaboth is a place name mentioned in the Bible, specifically in Joshua 19:2-6.",
+      "To be free from blame or responsibility; to be acquitted."
+    ]
+  },
+  {
+    "w": "been",
+    "r": "13:3",
+    "v": "[12:20] And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had. [13:1] And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south. [13:2] And Abram was very rich in cattle, in silver, and in gold. ⭐[13:3] And he went on his journeys from the south even to Bethel, unto the place where his tent had been at the beginning, between Bethel and Hai; 13:4 Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD. [13:5] And Lot also, which went with Abram, had flocks, and herds, and tents. [13:6] And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together. [13:7] And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land.",
+    "ed": "past participle of 'be'; having been",
+    "cd": "過去分詞；曾經是",
+    "ex": "英文定義：過去分詞；曾經是。中文解釋：過去分詞；表示某人或某物曾經處於某一狀態。",
+    "ds": [
+      "Aher is a name mentioned in the Bible, specifically in the Book of Numbers.",
+      "Split into two parts; bifurcated.",
+      "A Aramaic word meaning 'Father', expressing a sense of intimacy and affection towards God."
+    ]
+  },
+  {
+    "w": "felling",
+    "r": "6:5",
+    "v": "[6:2] Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye. [6:3] And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go. [6:4] So he went with them. And when they came to Jordan, they cut down wood. ⭐[6:5] But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed. [6:6] And the man of God said, Where fell it? And he shewed him the place. [6:7] Therefore said he, Take it up to thee. And he put out his hand, and took it. [6:8] Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place shall be my camp.",
+    "ed": "The act of cutting down a tree or part of a tree.",
+    "cd": "砍伐；砍倒",
+    "ex": "felling - 砍伐；砍倒 - 指的是將樹木砍倒或砍下樹的一部分。",
+    "ds": [
+      "A swift dromedary traversing her ways",
+      "Entrances or exits; ways in and out.",
+      "A person who cuts down trees; a lumberman."
+    ]
+  },
+  {
+    "w": "famished",
+    "r": "41:55",
+    "v": "[41:52] And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction. [41:53] And the seven years of plenteousness, that was in the land of Egypt, were ended. [41:54] And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread. ⭐[41:55] And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do. [41:56] And the famine was over all the face of the earth: and Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt. [41:57] And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands. [42:1] Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another? 42:2 And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.",
+    "ed": "extremely hungry",
+    "cd": "非常餓",
+    "ex": "極度的饑餓，形容人因食物不足而感到非常飢餓。",
+    "ds": [
+      "implanted; inserted",
+      "Refers to non-Greek people or foreigners, often used in a derogatory manner.",
+      "Alexandrians refers to people from Alexandria, a city in Egypt."
+    ]
+  },
+  {
+    "w": "barzillai",
+    "r": "17:27",
+    "v": "[17:24] Then David came to Mahanaim. And Absalom passed over Jordan, he and all the men of Israel with him. [17:25] And Absalom made Amasa captain of the host instead of Joab: which Amasa was a man’s son, whose name was Ithra an Israelite, that went in to Abigail the daughter of Nahash, sister to Zeruiah Joab’s mother. [17:26] So Israel and Absalom pitched in the land of Gilead. ⭐[17:27] And it came to pass, when David was come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lodebar, and Barzillai the Gileadite of Rogelim, [17:28] Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched corn, and beans, and lentiles, and parched pulse, 17:29 And honey, and butter, and sheep, and cheese of kine, for David, and for the people that were with him, to eat: for they said, The people is hungry, and weary, and thirsty, in the wilderness. [18:1] And David numbered the people that were with him, and set captains of thousands, and captains of hundreds over them. [18:2] And David sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai the Gittite. And the king said unto the people, I will surely go forth with you myself also.",
+    "ed": "Barzillai is a name, likely referring to a person who was from Rogelim and provided supplies to David.",
+    "cd": "巴爾齊拉伊是來自羅革利米的人，為大衛提供補給。",
+    "ex": "巴爾齊拉伊：這個名字指的是從羅革利米來的人，他向大衛提供了食物和其他供應品。",
+    "ds": [
+      "Aristobulus refers to a person whose household is being greeted in this verse.",
+      "A person's name",
+      "Amorites who dwelt in Hazezontamar"
+    ]
+  },
+  {
+    "w": "daily",
+    "r": "5:13",
+    "v": "[5:10] And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw. [5:11] Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished. [5:12] So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw. ⭐[5:13] And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw. [5:14] And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, and demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore? 5:15 Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants? 5:16 There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants are beaten; but the fault is in thine own people. [5:17] But he said, Ye are idle, ye are idle: therefore ye say, Let us go and do sacrifice to the LORD. [5:18] Go therefore now, and work; for there shall no straw be given you, yet shall ye deliver the tale of bricks.",
+    "ed": "Daily tasks or daily work.",
+    "cd": "日常的工作或每日的任務。",
+    "ex": "英文解釋為“日常的工作或每日的任務”，中文則是“日常的工作或每日的任務”。",
+    "ds": [
+      "A low shrub or bush used as a boundary or decorative screen.",
+      "To hear; to listen to.",
+      "A woman's name"
+    ]
+  },
+  {
+    "w": "decrease",
+    "r": "107:38",
+    "v": "[107:35] He turneth the wilderness into a standing water, and dry ground into watersprings. [107:36] And there he maketh the hungry to dwell, that they may prepare a city for habitation; [107:37] And sow the fields, and plant vineyards, which may yield fruits of increase. ⭐[107:38] He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease. [107:39] Again, they are minished and brought low through oppression, affliction, and sorrow. [107:40] He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way. [107:41] Yet setteth he the poor on high from affliction, and maketh him families like a flock.",
+    "ed": "To become smaller in number or amount; to diminish.",
+    "cd": "減少；減小。",
+    "ex": "decrease - 減少；減小。指數量或程度變小的過程。",
+    "ds": [
+      "The term 'administrations' refers to different roles or functions within a group or organization.",
+      "To cheat or deceive someone in a business transaction; to wrong someone by dishonest means.",
+      "being ready to notice or pay attention to something"
+    ]
+  },
+  {
+    "w": "excess",
+    "r": "23:25",
+    "v": "[23:22] And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon. [23:23] Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone. [23:24] Ye blind guides, which strain at a gnat, and swallow a camel. ⭐[23:25] Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess. [23:26] Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also. [23:27] Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness. [23:28] Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.",
+    "ed": "Excessive behavior or conduct; immoderate indulgence.",
+    "cd": "過度；奢侈。",
+    "ex": "過度；指行為或舉止的過度，或是不節制的放縱。",
+    "ds": [
+      "指手臂或手部的動作，這裡可能指的是伸手去拿取。",
+      "One who deceives; a trickster.",
+      "The furniture in this context refers to the interior furnishings or belongings of a room, specifically inside Rachel’s tent."
+    ]
+  },
+  {
+    "w": "certify",
+    "r": "15:28",
+    "v": "[15:24] And lo Zadok also, and all the Levites were with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city. [15:25] And the king said unto Zadok, Carry back the ark of God into the city: if I shall find favour in the eyes of the LORD, he will bring me again, and shew me both it, and his habitation: 15:26 But if he thus say, I have no delight in thee; behold, here am I, let him do to me as seemeth good unto him. [15:27] The king said also unto Zadok the priest, Art not thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar. ⭐[15:28] See, I will tarry in the plain of the wilderness, until there come word from you to certify me. [15:29] Zadok therefore and Abiathar carried the ark of God again to Jerusalem: and they tarried there. [15:30] And David went up by the ascent of mount Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that was with him covered every man his head, and they went up, weeping as they went up. [15:31] And one told David, saying, Ahithophel is among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness.",
+    "ed": "To confirm or verify by authoritative means.",
+    "cd": "確認或驗證。",
+    "ex": "英漢雙解：「certify」意指以權威的方式確認或驗證某事。",
+    "ds": [
+      "Noisy or persistent in making demands or complaints.",
+      "Besodeiah is a name in the biblical text.",
+      "贖罪；贖罪"
+    ]
+  },
+  {
+    "w": "female",
+    "r": "1:27",
+    "v": "[1:24] And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so. [1:25] And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good. [1:26] And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. ⭐[1:27] So God created man in his own image, in the image of God created he him; male and female created he them. [1:28] And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. [1:29] And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat. [1:30] And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.",
+    "ed": "指女性，與男性對應的性別。",
+    "cd": "指女性，與男性對應的性別。",
+    "ex": "英文解釋為“指女性，與男性對應的性別”，中文解釋為“指女性，與男性對應的性別”。",
+    "ds": [
+      "A place name",
+      "The state of being guilty of murder or causing death; a sense of guilt for having shed blood.",
+      "Doeg is a name of an Edomite herdsman who was present at the time when David requested hallowed bread from Ahimelech."
+    ]
+  },
+  {
+    "w": "espied",
+    "r": "42:27",
+    "v": "[42:24] And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes. [42:25] Then Joseph commanded to fill their sacks with corn, and to restore every man’s money into his sack, and to give them provision for the way: and thus did he unto them. [42:26] And they laded their asses with the corn, and departed thence. ⭐[42:27] And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it was in his sack’s mouth. [42:28] And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us? 42:29 And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying, 42:30 The man, who is the lord of the land, spake roughly to us, and took us for spies of the country. [42:31] And we said unto him, We are true men; we are no spies: 42:32 We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan. [42:33] And the man, the lord of the country, said unto us, Hereby shall I know that ye are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone: 42:34 And bring your youngest brother unto me: then shall I know that ye are no spies, but that ye are true men: so will I deliver you your brother, and ye shall traffick in the land.",
+    "ed": "to notice or see by chance; to discover secretly.",
+    "cd": "瞥見；偶然發現。",
+    "ex": "「espied」意為「注意到或偶然看到；秘密地發現」，在這句話中指的是某人在開啟口袋餵牲口時，偶然發現錢在口袋裡。",
+    "ds": [
+      "A feeling of complete hopelessness and loss of all confidence.",
+      "to split or divide into two parts; to separate closely or completely",
+      "A semi-precious stone of various colors and patterns, often used in jewelry."
+    ]
+  },
+  {
+    "w": "cleansed",
+    "r": "11:32",
+    "v": "[11:28] And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you. [11:29] These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind, 11:30 And the ferret, and the chameleon, and the lizard, and the snail, and the mole. [11:31] These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even. ⭐[11:32] And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed. [11:33] And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it. [11:34] Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean. [11:35] And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean and shall be unclean unto you.",
+    "ed": "The act or process of making clean; purification.",
+    "cd": "清潔；淨化。",
+    "ex": "「cleansed」指的是一種使事物變得乾淨或純淨的過程或行為。",
+    "ds": [
+      "A person who is foolish or silly; a person who acts in a stupid way.",
+      "A poor or careless execution of a job; a bungle.",
+      "to abstain from food or drink for a period of time"
+    ]
+  },
+  {
+    "w": "grecians",
+    "r": "3:4",
+    "v": "[2:32] And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call. [3:1] For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem, 3:2 I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land. [3:3] And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink. ⭐[3:4] Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head; 3:5 Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things: 3:6 The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border. [3:7] Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head: 3:8 And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken it. [3:9] Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up: 3:10 Beat your plowshares into swords and your pruninghooks into spears: let the weak say, I am strong. [3:11] Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O LORD.",
+    "ed": "Grecians指希臘人。",
+    "cd": "‘Grecians’指的是希臘人。",
+    "ex": "'Grecians'是指希臘人，即古希臘的居民或與希臘相關的人群。",
+    "ds": [
+      "Copulation refers to sexual intercourse between two individuals.",
+      "a slender shaft with a pointed or barbed tip, propelled by force from a bow; a symbol of guidance or direction.",
+      "A unit of length equal to six feet (1.83 meters), used especially for measuring the depth of water."
+    ]
+  },
+  {
+    "w": "bolt",
+    "r": "13:17",
+    "v": "[13:14] Howbeit he would not hearken unto her voice: but, being stronger than she, forced her, and lay with her. [13:15] Then Amnon hated her exceedingly; so that the hatred wherewith he hated her was greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone. [13:16] And she said unto him, There is no cause: this evil in sending me away is greater than the other that thou didst unto me. But he would not hearken unto her. ⭐[13:17] Then he called his servant that ministered unto him, and said, Put now this woman out from me, and bolt the door after her. [13:18] And she had a garment of divers colours upon her: for with such robes were the king’s daughters that were virgins apparelled. Then his servant brought her out, and bolted the door after her. [13:19] And Tamar put ashes on her head, and rent her garment of divers colours that was on her, and laid her hand on her head, and went on crying. [13:20] And Absalom her brother said unto her, Hath Amnon thy brother been with thee? but hold now thy peace, my sister: he is thy brother; regard not this thing. So Tamar remained desolate in her brother Absalom’s house.",
+    "ed": "To fasten or secure a door or other opening with a bolt.",
+    "cd": "用鉤子或螺絲固定門或其他開口。",
+    "ex": "bolt：用鉤子或螺絲固定門或其他開口。在這段經文中，阿摩尼命令他的侍從把門鎖上以將提瑪拉關在外面。",
+    "ds": [
+      "A family name or a place name in the context of the verse.",
+      "A small jumping insect that feeds on blood.",
+      "A person who designs buildings or structures; a designer of architecture."
+    ]
+  },
+  {
+    "w": "confusion",
+    "r": "18:23",
+    "v": "[18:20] Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her. [18:21] And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the LORD. [18:22] Thou shalt not lie with mankind, as with womankind: it is abomination. ⭐[18:23] Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion. [18:24] Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you: 18:25 And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants. [18:26] Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you: 18:27 (For all these abominations have the men of the land done, which were before you, and the land is defiled;) 18:28 That the land spue not you out also, when ye defile it, as it spued out the nations that were before you. [18:29] For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people.",
+    "ed": "A state of being bewildered or disoriented; a lack of clear understanding.",
+    "cd": "一種困惑或迷惘的狀態；缺乏清晰理解的情況。",
+    "ex": "「confusion」在這段經文中指的是因行為不當而產生的混亂和不解，這種狀態是對神聖事物的褻瀆所導致的精神上的混亂。",
+    "ds": [
+      "Dalmatia is a historical region on the Adriatic coast of Croatia, known for its coastal cities and islands.",
+      "to develop or increase in size, number, or strength",
+      "A branch of a tree; a sprout or shoot."
+    ]
+  },
+  {
+    "w": "baptize",
+    "r": "3:11",
+    "v": "[3:5] Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan, 3:6 And were baptized of him in Jordan, confessing their sins. [3:7] But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come? 3:8 Bring forth therefore fruits meet for repentance: 3:9 And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham. [3:10] And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire. ⭐[3:11] I indeed baptize you with water unto repentance. but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire: 3:12 Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire. [3:13] Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him. [3:14] But John forbad him, saying, I have need to be baptized of thee, and comest thou to me? 3:15 And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him. [3:16] And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: 3:17 And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.",
+    "ed": "To immerse or sprinkle a person with water as a religious rite of initiation or purification.",
+    "cd": "用水施洗，作為宗教儀式中的啟蒙或淨化。",
+    "ex": "「baptize」在這節經文中指的是施洗約翰用 baptism 的方式為人施行浸禮，作為悔改的象徵。這個詞在此處強調了悔改和淨化的意義。",
+    "ds": [
+      "To ask; to inquire.",
+      "A tool with a heavy head on one end and a handle on the other, used for cutting or splitting wood.",
+      "形容對某事或某人非常注意和謹慎。"
+    ]
+  },
+  {
+    "w": "beatest",
+    "r": "24:20",
+    "v": "[24:16] The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin. [24:17] Thou shalt not pervert the judgment of the stranger, nor of the fatherless; nor take a widow’s raiment to pledge: 24:18 But thou shalt remember that thou wast a bondman in Egypt, and the LORD thy God redeemed thee thence: therefore I command thee to do this thing. [24:19] When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD thy God may bless thee in all the work of thine hands. ⭐[24:20] When thou beatest thine olive tree, thou shalt not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow. [24:21] When thou gatherest the grapes of thy vineyard, thou shalt not glean it afterward: it shall be for the stranger, for the fatherless, and for the widow. [24:22] And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing. [25:1] If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked.",
+    "ed": "To beat or to thresh (olives) without going over again.",
+    "cd": "敲打；敲擊（橄欖樹）而不第二次經過。",
+    "ex": "「beatest」在此處指的是在搗橄欖時，第一次敲打後不再第二次經過同一部位。這是一種公平的做法，確保窮人、孤兒和寡婦也能獲得一些收成。",
+    "ds": [
+      "To show concern or interest in someone's well-being.",
+      "Gomorrah is a city mentioned in the Bible as one of the five cities of the Plain (along with Sodom) that were destroyed by God due to their wickedness.",
+      "to make stronger or more effective; to reinforce"
+    ]
+  },
+  {
+    "w": "anguish",
+    "r": "42:21",
+    "v": "[42:16] Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely ye are spies. [42:17] And he put them all together into ward three days. [42:18] And Joseph said unto them the third day, This do, and live; for I fear God: 42:19 If ye be true men, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses: 42:20 But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so. ⭐[42:21] And they said one to another, We are verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us. [42:22] And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required. [42:23] And they knew not that Joseph understood them; for he spake unto them by an interpreter. [42:24] And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.",
+    "ed": "Extreme pain or suffering, especially mental suffering.",
+    "cd": "極度的痛苦或苦惱，特別是精神上的苦惱。",
+    "ex": "anguish 指的是極度的痛苦或苦惱，特別是在精神上所經歷的極端痛苦。在這段經文中，兄弟們提到他們看見約瑟哥哥內心的痛苦和懇求，但沒有聽取他的呼籲，因此現在遭逢了這樣的困苦。",
+    "ds": [
+      "to move or turn to one side; to divert attention from the main subject",
+      "The word 'earthquake' refers to a shaking of the ground caused by the movement of tectonic plates beneath the Earth's surface.",
+      "The dead body of a person."
+    ]
+  },
+  {
+    "w": "ailed",
+    "r": "114:5",
+    "v": "[114:2] Judah was his sanctuary, and Israel his dominion. [114:3] The sea saw it, and fled: Jordan was driven back. [114:4] The mountains skipped like rams, and the little hills like lambs. ⭐[114:5] What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back? [114:6] Ye mountains, that ye skipped like rams; and ye little hills, like lambs? [114:7] Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob; [114:8] Which turned the rock into a standing water, the flint into a fountain of waters.",
+    "ed": "To be ill or to suffer from a disease or injury; to fall into a bad state.",
+    "cd": "生病或受傷；處於不良狀態。",
+    "ex": "「ailed」在這句經文中意指「生病或受傷；處於不良狀態」，用來描述海浪和約旦河的反應。",
+    "ds": [
+      "Those who secretly plan or conspire together to achieve a common goal, especially with malicious intent.",
+      "Azariah is a name mentioned in the biblical text.",
+      "skilled or knowledgeable in a particular subject or activity"
+    ]
+  },
+  {
+    "w": "hamulites",
+    "r": "26:21",
+    "v": "[26:18] These are the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred. [26:19] The sons of Judah were Er and Onan: and Er and Onan died in the land of Canaan. [26:20] And the sons of Judah after their families were; of Shelah, the family of the Shelanites: of Pharez, the family of the Pharzites: of Zerah, the family of the Zarhites. ⭐[26:21] And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites. [26:22] These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred. [26:23] Of the sons of Issachar after their families: of Tola, the family of the Tolaites: of Pua, the family of the Punites: 26:24 Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites. [26:25] These are the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred.",
+    "ed": "The family of Hamul",
+    "cd": "哈穆利支派",
+    "ex": "哈穆利支派是指根據聖經記載，猶大支派下的一個家族分支。",
+    "ds": [
+      "A serious warning or caution",
+      "Byways refer to minor or less-traveled roads that are not part of the main road system.",
+      "A state or condition of affairs; a situation."
+    ]
+  },
+  {
+    "w": "assemblies",
+    "r": "86:14",
+    "v": "[86:11] Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name. [86:12] I will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore. [86:13] For great is thy mercy toward me: and thou hast delivered my soul from the lowest hell. ⭐[86:14] O God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set thee before them. [86:15] But thou, O Lord, art a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth. [86:16] O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid. [86:17] Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, LORD, hast holpen me, and comforted me.",
+    "ed": "A group of people who gather for a common purpose or to discuss matters.",
+    "cd": "一群為了共同目的而聚集的人或會議。",
+    "ex": "「assemblies」指的是為了共同目的而聚集的人群或會議。在這節聖經中，它被用來描述那些對詩人發起攻擊的暴虐之人的集會。",
+    "ds": [
+      "形容火熱的、猛烈的",
+      "A city",
+      "The words of Amos"
+    ]
+  },
+  {
+    "w": "chameleon",
+    "r": "11:29",
+    "v": "[11:26] The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean. [11:27] And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even. [11:28] And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you. ⭐[11:29] These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind, 11:30 And the ferret, and the chameleon, and the lizard, and the snail, and the mole. [11:31] These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even. [11:32] And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed. [11:33] And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it.",
+    "ed": "A chameleon is a lizard known for its ability to change skin color.",
+    "cd": "變色龍是一種蜥蜴，以其能改變皮膚顏色的能力而聞名。",
+    "ex": "變色龍 (chameleon) 是一種能夠根據環境改變體色的爬行動物。",
+    "ds": [
+      "Ashtaroth is a Canaanite goddess and was worshiped in various parts of the ancient Near East.",
+      "The act of throwing or measuring out with a line; in this context, it refers to the action of measuring and deciding the fate of people based on that measurement.",
+      "A Hebrew phrase used by Jesus during his crucifixion."
+    ]
+  },
+  {
+    "w": "baalis",
+    "r": "40:13",
+    "v": "[40:9] And Gedaliah the son of Ahikam the son of Shaphan sware unto them and to their men, saying, Fear not to serve the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you. [40:10] As for me, behold, I will dwell at Mizpah, to serve the Chaldeans, which will come unto us: but ye, gather ye wine, and summer fruits, and oil, and put them in your vessels, and dwell in your cities that ye have taken. [40:11] Likewise when all the Jews that were in Moab, and among the Ammonites, and in Edom, and that were in all the countries, heard that the king of Babylon had left a remnant of Judah, and that he had set over them Gedaliah the son of Ahikam the son of Shaphan; 40:12 Even all the Jews returned out of all places whither they were driven, and came to the land of Judah, to Gedaliah, unto Mizpah, and gathered wine and summer fruits very much. ⭐[40:13] Moreover Johanan the son of Kareah, and all the captains of the forces that were in the fields, came to Gedaliah to Mizpah, 40:14 And said unto him, Dost thou certainly know that Baalis the king of the Ammonites hath sent Ishmael the son of Nethaniah to slay thee? But Gedaliah the son of Ahikam believed them not. [40:15] Then Johanan the son of Kareah spake to Gedaliah in Mizpah secretly saying, Let me go, I pray thee, and I will slay Ishmael the son of Nethaniah, and no man shall know it: wherefore should he slay thee, that all the Jews which are gathered unto thee should be scattered, and the remnant in Judah perish? 40:16 But Gedaliah the son of Ahikam said unto Johanan the son of Kareah, Thou shalt not do this thing: for thou speakest falsely of Ishmael. [41:1] Now it came to pass in the seventh month, that Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came unto Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah. [41:2] Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and smote Gedaliah the son of Ahikam the son of Shaphan with the sword, and slew him, whom the king of Babylon had made governor over the land.",
+    "ed": "the king of the Ammonites",
+    "cd": "阿摩利王",
+    "ex": "巴力士（Baalis）是亞捫王的名字，在這段經文中，提到他派遣伊沙甲殺害傑赫利雅。",
+    "ds": [
+      "To risk or endanger one's life for a cause.",
+      "The desires of one's heart; what one wishes for deeply.",
+      "A place name in the Bible verse."
+    ]
+  },
+  {
+    "w": "abodest",
+    "r": "5:16",
+    "v": "[5:13] Then he made him that remaineth have dominion over the nobles among the people: the LORD made me have dominion over the mighty. [5:14] Out of Ephraim was there a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer. [5:15] And the princes of Issachar were with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben there were great thoughts of heart. ⭐[5:16] Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great searchings of heart. [5:17] Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches. [5:18] Zebulun and Naphtali were a people that jeoparded their lives unto the death in the high places of the field. [5:19] The kings came and fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.",
+    "ed": "to dwell; to stay",
+    "cd": "駐留；停留",
+    "ex": "駐留；停留 - to dwell; to stay",
+    "ds": [
+      "used to emphasize that something almost did not happen or was done with great difficulty",
+      "The desires of one's heart; what one wishes for deeply.",
+      "A male sibling"
     ]
   },
   {
@@ -176,477 +540,113 @@
     "cd": "包圍；環繞。",
     "ex": "「compasseth」意為「包圍、環繞」，在這段經文中指的是比遜河圍繞著哈維拉全地。",
     "ds": [
-      "魔鬼般的，指像魔鬼的；邪惡或淘氣的。",
-      "卡法拿胡 - 耶穌在這裡行了很多奇跡並傳道的一個加利利城。",
-      "Agee的名稱，可能是戴維的大能勇士之一，亞希禾之子。"
+      "basins",
+      "Girgashites",
+      "A place name"
     ]
   },
   {
-    "w": "doubtless",
-    "r": "14:30",
-    "v": "[14:25] (Now the Amalekites and the Canaanites dwelt in the valley.) Tomorrow turn you, and get you into the wilderness by the way of the Red sea. [14:26] And the LORD spake unto Moses and unto Aaron, saying, 14:27 How long shall I bear with this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me. [14:28] Say unto them, As truly as I live, saith the LORD, as ye have spoken in mine ears, so will I do to you: 14:29 Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward which have murmured against me. ⭐[14:30] Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun. [14:31] But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised. [14:32] But as for you, your carcases, they shall fall in this wilderness. [14:33] And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness.",
-    "ed": "Without doubt; certainly.",
-    "cd": "當然；必定。",
-    "ex": "「doubtless」意指沒有疑問地、確定地。",
+    "w": "baptized",
+    "r": "3:5",
+    "v": "[3:1] In those days came John the Baptist, preaching in the wilderness of Judaea, 3:2 And saying, Repent ye: for the kingdom of heaven is at hand. [3:3] For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight. [3:4] And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey. ⭐[3:5] Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan, 3:6 And were baptized of him in Jordan, confessing their sins. [3:7] But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come? 3:8 Bring forth therefore fruits meet for repentance: 3:9 And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham. [3:10] And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire. [3:11] I indeed baptize you with water unto repentance. but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire: 3:12 Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.",
+    "ed": "To immerse (a person) in water as a religious rite of initiation or purification.",
+    "cd": "用水浸禮，作為宗教啟蒙或淨化之儀式。",
+    "ex": "「baptized」在這段經文中指的是施洗約翰為人施行浸 baptism 的行為，作為宗教上的啟蒙或淨化。",
     "ds": [
-      "卡摩恩，即雅各之墓。",
-      "情形；狀態。",
-      "英畝；面積單位"
+      "A person who is much shorter than average in height; a midget.",
+      "to take pleasure in; to be delighted with",
+      "The state or fact of not being present."
     ]
   },
   {
-    "w": "diet",
-    "r": "52:34",
-    "v": "[52:28] This is the people whom Nebuchadrezzar carried away captive: in the seventh year three thousand Jews and three and twenty: 52:29 In the eighteenth year of Nebuchadrezzar he carried away captive from Jerusalem eight hundred thirty and two persons: 52:30 In the three and twentieth year of Nebuchadrezzar Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty and five persons: all the persons were four thousand and six hundred. [52:31] And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the five and twentieth day of the month, that Evilmerodach king of Babylon in the first year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison. [52:32] And spake kindly unto him, and set his throne above the throne of the kings that were with him in Babylon, 52:33 And changed his prison garments: and he did continually eat bread before him all the days of his life. ⭐[52:34] And for his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life. [1:1] How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary! 1:2 She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies. [1:3] Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits. [1:4] The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.",
-    "ed": "The provision of food regularly given to someone.",
-    "cd": "指定期提供給某人的食物。",
-    "ex": "「diet」在這句經文中指的是由巴比倫王定期提供的食物補給。",
+    "w": "camp",
+    "r": "14:19",
+    "v": "[14:15] And the LORD said unto Moses, Wherefore criest thou unto me? speak unto the children of Israel, that they go forward: 14:16 But lift thou up thy rod, and stretch out thine hand over the sea, and divide it: and the children of Israel shall go on dry ground through the midst of the sea. [14:17] And I, behold, I will harden the hearts of the Egyptians, and they shall follow them: and I will get me honour upon Pharaoh, and upon all his host, upon his chariots, and upon his horsemen. [14:18] And the Egyptians shall know that I am the LORD, when I have gotten me honour upon Pharaoh, upon his chariots, and upon his horsemen. ⭐[14:19] And the angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them: 14:20 And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness to them, but it gave light by night to these: so that the one came not near the other all the night. [14:21] And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided. [14:22] And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left. [14:23] And the Egyptians pursued, and went in after them to the midst of the sea, even all Pharaoh’s horses, his chariots, and his horsemen.",
+    "ed": "軍營；駐地",
+    "cd": "軍隊的駐地或營地",
+    "ex": "英：軍營；駐地 / 繁：軍隊的駐地或營地",
     "ds": [
-      "毫不猶豫地；大膽地",
-      "亞弗拉，地名",
-      "吃者；食客。"
+      "汙穢；不潔淨",
+      "to abstain from food or drink for a period of time",
+      "To frustrate or disappoint someone by preventing them from achieving their goal or expectation."
     ]
   },
   {
-    "w": "galatia",
-    "r": "16:6",
-    "v": "[16:3] Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek. [16:4] And as they went through the cities, they delivered them the decrees for to keep, that were ordained of the apostles and elders which were at Jerusalem. [16:5] And so were the churches established in the faith, and increased in number daily. ⭐[16:6] Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia, 16:7 After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not. [16:8] And they passing by Mysia came down to Troas. [16:9] And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us. [16:10] And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them.",
-    "ed": "Galatia is an ancient region in central Anatolia (modern-day Turkey).",
-    "cd": "加拉太是古代安納託利亞中部的一個地區（現代土耳其）。",
-    "ex": "加拉太是指位於現代土耳其中部的古地名，這在新約聖經中被提及。",
+    "w": "amerce",
+    "r": "22:18",
+    "v": "[22:11] Thou shalt not wear a garment of divers sorts, as of woollen and linen together. [22:12] Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself. [22:13] If any man take a wife, and go in unto her, and hate her, 22:14 And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid: 22:15 Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel’s virginity unto the elders of the city in the gate: 22:16 And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her; 22:17 And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter’s virginity. And they shall spread the cloth before the elders of the city. ⭐[22:18] And the elders of that city shall take that man and chastise him; 22:19 And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days. [22:20] But if this thing be true, and the tokens of virginity be not found for the damsel: 22:21 Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you. [22:22] If a man be found lying with a woman married to an husband, then they shall both of them die, both the man that lay with the woman, and the woman: so shalt thou put away evil from Israel. [22:23] If a damsel that is a virgin be betrothed unto an husband, and a man find her in the city, and lie with her; 22:24 Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you.",
+    "ed": "To impose a fine or penalty",
+    "cd": "施罰；罰款",
+    "ex": "「amerce」意指對某人施以罰款或處罰。",
     "ds": [
-      "一種以吹氣產生音響的管樂器，通常有數個按孔。",
-      "未經耕耘的；荒地",
-      "Beerelim，指Beerelim的哀號。"
+      "Amminadab is a name.",
+      "Cyrenius is an ancient Roman name, often translated as Quirinius in Latin texts.",
+      "Below; underneath."
     ]
   },
   {
-    "w": "candace",
-    "r": "8:27",
-    "v": "[8:24] Then answered Simon, and said, Pray ye to the LORD for me, that none of these things which ye have spoken come upon me. [8:25] And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans. [8:26] And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert. ⭐[8:27] And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship, [8:28] Was returning, and sitting in his chariot read Esaias the prophet. [8:29] Then the Spirit said unto Philip, Go near, and join thyself to this chariot. [8:30] And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest? 8:31 And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.",
-    "ed": "Candace is a name that appears in the Bible, specifically referring to the Queen of Ethiopia.",
-    "cd": "坎達斯是《聖經》中提到的一個名字，特別是指衣索比亞的女王。",
-    "ex": "坎達斯（Candace）是一個出現在《聖經》中的名字，特別是指衣索比亞的女王。這個名字在文獻中代表了一位權力顯赫的女性君主。",
+    "w": "aboundeth",
+    "r": "29:22",
+    "v": "[29:19] A servant will not be corrected by words: for though he understand he will not answer. [29:20] Seest thou a man that is hasty in his words? there is more hope of a fool than of him. [29:21] He that delicately bringeth up his servant from a child shall have him become his son at the length. ⭐[29:22] An angry man stirreth up strife, and a furious man aboundeth in transgression. [29:23] A man’s pride shall bring him low: but honour shall uphold the humble in spirit. [29:24] Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth it not. [29:25] The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.",
+    "ed": "to abound; to be full of",
+    "cd": "充盈；充滿",
+    "ex": "充盈；充滿 - to abound; to be full of",
     "ds": [
-      " Abel-meholah 地名",
-      "束腰帶；圍裙",
-      "分配；散佈"
+      "To wander about; to roam.",
+      "to refuse to obey or submit to; to challenge",
+      "A place or region; a district."
     ]
   },
   {
-    "w": "compassed",
-    "r": "19:4",
-    "v": "[18:33] And the LORD went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place. [19:1] And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground; 19:2 And he said, Behold now, my lords, turn in, I pray you, into your servant’s house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night. [19:3] And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat. ⭐[19:4] But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter: 19:5 And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them. [19:6] And Lot went out at the door unto them, and shut the door after him, 19:7 And said, I pray you, brethren, do not so wickedly. [19:8] Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof. [19:9] And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door.",
-    "ed": "To surround or encircle; to besiege.",
-    "cd": "圍繞；包圍。",
-    "ex": "compassed - 圍繞；包圍。指城裡的居民團團地圍住了 Lot 的房子。",
+    "w": "ancient",
+    "r": "33:13",
+    "v": "[33:10] They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar. [33:11] Bless, LORD, his substance, and accept the work of his hands; smite through the loins of them that rise against him, and of them that hate him, that they rise not again. [33:12] And of Benjamin he said, The beloved of the LORD shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders. ⭐[33:13] And of Joseph he said, Blessed of the LORD be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath, 33:14 And for the precious fruits brought forth by the sun, and for the precious things put forth by the moon, 33:15 And for the chief things of the ancient mountains, and for the precious things of the lasting hills, 33:16 And for the precious things of the earth and fulness thereof, and for the good will of him that dwelt in the bush: let the blessing come upon the head of Joseph, and upon the top of the head of him that was separated from his brethren. [33:17] His glory is like the firstling of his bullock, and his horns are like the horns of unicorns: with them he shall push the people together to the ends of the earth: and they are the ten thousands of Ephraim, and they are the thousands of Manasseh. [33:18] And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents. [33:19] They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck of the abundance of the seas, and of treasures hid in the sand.",
+    "ed": "Of old; ancient.",
+    "cd": "古老的；久遠的。",
+    "ex": "英漢雙解：of old; ancient. 意指久遠的、古老的。",
     "ds": [
-      "Ahiman是安可的其中一個兒子。",
-      "亞米施達是《聖經》中所列的一個名字。",
-      "去取；取得"
+      "conduct; behavior",
+      "A place or area where someone hides or remains concealed.",
+      "Benjamites refers to the people or descendants of Benjamin, one of the twelve tribes of Israel."
     ]
   },
   {
-    "w": "deserts",
-    "r": "48:21",
-    "v": "[48:18] O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea: [48:19] Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me. [48:20] Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The LORD hath redeemed his servant Jacob. ⭐[48:21] And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out. [48:22] There is no peace, saith the LORD, unto the wicked. [49:1] Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name. [49:2] And he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me; 49:3 And said unto me, Thou art my servant, O Israel, in whom I will be glorified.",
-    "ed": "Deserts are arid regions with little rainfall and sparse vegetation.",
-    "cd": "沙漠是少雨、植被稀疏的乾旱地區。",
-    "ex": "沙漠：指少雨、植被稀疏的乾旱地區。在這節經文中，描述了上帝如何在引領以色列人穿越沙漠時提供水資源。",
+    "w": "agreed",
+    "r": "3:3",
+    "v": "[2:14] Therefore the flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver himself: 2:15 Neither shall he stand that handleth the bow; and he that is swift of foot shall not deliver himself: neither shall he that rideth the horse deliver himself. [2:16] And he that is courageous among the mighty shall flee away naked in that day, saith the LORD. [3:1] Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying, 3:2 You only have I known of all the families of the earth: therefore I will punish you for all your iniquities. ⭐[3:3] Can two walk together, except they be agreed? 3:4 Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing? 3:5 Can a bird fall in a snare upon the earth, where no gin is for him? shall one take up a snare from the earth, and have taken nothing at all? 3:6 Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done it? 3:7 Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets. [3:8] The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy? 3:9 Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof. [3:10] For they know not to do right, saith the LORD, who store up violence and robbery in their palaces. [3:11] Therefore thus saith the Lord GOD; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.",
+    "ed": "to be in accord; to have a mutual agreement",
+    "cd": "同意；協議",
+    "ex": "同意；協議，指兩方或多方位於同一意見或達成共識。",
     "ds": [
-      "玷汙；汙染",
-      "有信心的；信賴的。",
-      "埃弗倫是聖經中的一個希特人，他擁有了一塊田地和一個洞穴，亞伯拉罕曾向他購買土地用於安葬親人。"
+      "The one who accuses or charges someone.",
+      "Feeling isolated or estranged from one's community or society.",
+      "Chushanrishathaim is a proper noun referring to a king of Mesopotamia mentioned in the Bible."
     ]
   },
   {
-    "w": "estate",
-    "r": "17:16",
-    "v": "[17:12] He shall build me an house, and I will stablish his throne for ever. [17:13] I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee: 17:14 But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore. [17:15] According to all these words, and according to all this vision, so did Nathan speak unto David. ⭐[17:16] And David the king came and sat before the LORD, and said, Who am I, O LORD God, and what is mine house, that thou hast brought me hitherto? 17:17 And yet this was a small thing in thine eyes, O God; for thou hast also spoken of thy servant’s house for a great while to come, and hast regarded me according to the estate of a man of high degree, O LORD God. [17:18] What can David speak more to thee for the honour of thy servant? for thou knowest thy servant. [17:19] O LORD, for thy servant’s sake, and according to thine own heart, hast thou done all this greatness, in making known all these great things. [17:20] O LORD, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears.",
-    "ed": "A position or rank of high importance; a state or condition.",
-    "cd": "高位或尊榮的地位；狀態或境況。",
-    "ex": "「estate」在此處指的是高位或尊榮的地位，或者是一種狀態或境況。這反映了大衛王對自己所獲得的恩賜和地位的高度認識與感激之情。",
+    "w": "claudius",
+    "r": "11:28",
+    "v": "[11:24] For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord. [11:25] Then departed Barnabas to Tarsus, for to seek Saul: 11:26 And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch. [11:27] And in these days came prophets from Jerusalem unto Antioch. ⭐[11:28] And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar. [11:29] Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea: [11:30] Which also they did, and sent it to the elders by the hands of Barnabas and Saul. [12:1] Now about that time Herod the king stretched forth his hands to vex certain of the church.",
+    "ed": "Claudius Caesar",
+    "cd": "克勞狄烏斯凱撒",
+    "ex": "克勞狄烏斯凱撒（Claudius Caesar）：羅馬帝國的皇帝，統治時期為41年至54年。",
     "ds": [
-      "除……之外；還有的",
-      "仔細審視或研究某事物",
-      "暴虐，殘忍"
+      "A person who prepares food by cooking; a chef.",
+      "One who deals in goods or services; a merchant.",
+      "Elnaam is a name mentioned in the Bible, specifically in 1 Chronicles 11:46."
     ]
   },
   {
-    "w": "accepted",
+    "w": "halteth",
     "r": "4:6",
-    "v": "[4:2] And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground. [4:3] And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD. [4:4] And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering: 4:5 But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell. ⭐[4:6] And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? 4:7 If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him. [4:8] And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him. [4:9] And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother’s keeper? 4:10 And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground. [4:11] And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand; 4:12 When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.",
-    "ed": "to receive or agree to something; to be favorable to a proposal or suggestion",
-    "cd": "接受；同意；認可",
-    "ex": "接受，指對某事物或建議表示贊同或批准。在《創世記》4章6節中，上帝問亞當為何發怒，並提出如果他行善會被接受。",
+    "v": "[4:3] And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more. [4:4] But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it. [4:5] For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever. ⭐[4:6] In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted; [4:7] And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever. [4:8] And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem. [4:9] Now why dost thou cry out aloud? is there no king in thee? is thy counsellor perished? for pangs have taken thee as a woman in travail.",
+    "ed": "停步；停止",
+    "cd": "停頓；停下",
+    "ex": "halteth - 停步；停頓",
     "ds": [
-      "以禮貌而周到的方式",
-      "交付；送達。",
-      "爆裂；突然完全破裂。"
-    ]
-  },
-  {
-    "w": "complain",
-    "r": "21:22",
-    "v": "[21:18] Howbeit we may not give them wives of our daughters: for the children of Israel have sworn, saying, Cursed be he that giveth a wife to Benjamin. [21:19] Then they said, Behold, there is a feast of the LORD in Shiloh yearly in a place which is on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem, and on the south of Lebonah. [21:20] Therefore they commanded the children of Benjamin, saying, Go and lie in wait in the vineyards; 21:21 And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin. ⭐[21:22] And it shall be, when their fathers or their brethren come unto us to complain, that we will say unto them, Be favourable unto them for our sakes: because we reserved not to each man his wife in the war: for ye did not give unto them at this time, that ye should be guilty. [21:23] And the children of Benjamin did so, and took them wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them. [21:24] And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance. [21:25] In those days there was no king in Israel: every man did that which was right in his own eyes.",
-    "ed": "To express dissatisfaction with a situation or action.",
-    "cd": "抱怨；投訴",
-    "ex": "表達對某種情況或行動的不滿。",
-    "ds": [
-      "保守秘密，不透露。",
-      "困苦；患難",
-      "夢想家"
-    ]
-  },
-  {
-    "w": "boaz",
-    "r": "2:1",
-    "v": "[1:18] When she saw that she was stedfastly minded to go with her, then she left speaking unto her. [1:19] So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, Is this Naomi? 1:20 And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me. [1:21] I went out full and the LORD hath brought me home again empty: why then call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me? 1:22 So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest. ⭐[2:1] And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name was Boaz. [2:2] And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. [2:3] And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field belonging unto Boaz, who was of the kindred of Elimelech. [2:4] And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD be with you. And they answered him, The LORD bless thee.",
-    "ed": "A mighty man of wealth, a kinsman of Naomi's husband’s",
-    "cd": "一個富有的玩家，拿俄米丈夫的親族",
-    "ex": "Boaz是一位富有且有權力的人，他是拿俄米丈夫的近親。",
-    "ds": [
-      "男僕（複數）",
-      "技工或工匠",
-      "接納；同意"
-    ]
-  },
-  {
-    "w": "friend",
-    "r": "38:12",
-    "v": "[38:9] And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled it on the ground, lest that he should give seed to his brother. [38:10] And the thing which he did displeased the LORD: wherefore he slew him also. [38:11] Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did. And Tamar went and dwelt in her father’s house. ⭐[38:12] And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite. [38:13] And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep. [38:14] And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife. [38:15] When Judah saw her, he thought her to be an harlot; because she had covered her face.",
-    "ed": "A person who is liked and trusted; a companion.",
-    "cd": "朋友；伴侶",
-    "ex": "朋友：指被喜愛和信任的人；伴侶。在本節經文中，提到猶大和他的朋友希拉前往提馬特剪羊毛。",
-    "ds": [
-      "毀滅；摧毀。",
-      "超過；超越",
-      "撕裂；分裂。"
-    ]
-  },
-  {
-    "w": "emulations",
-    "r": "5:19",
-    "v": "[5:16] This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh. [5:17] For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would. [5:18] But if ye be led of the Spirit, ye are not under the law. ⭐[5:19] Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, 5:20 Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, 5:21 Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God. [5:22] But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, 5:23 Meekness, temperance: against such there is no law. [5:24] And they that are Christ’s have crucified the flesh with the affections and lusts. [5:25] If we live in the Spirit, let us also walk in the Spirit.",
-    "ed": "競賽，嫉妒",
-    "cd": "競爭，妒忌",
-    "ex": "英：competition, jealousy / 中：競爭，妒忌",
-    "ds": [
-      "主宰，管轄權；權力。",
-      "誇口者是指那些自吹自擂、炫耀其成就或財富的人。",
-      "公爵是一些歐洲國家中的高階貴族，排位在皇帝或國王之下，而在伯爵、子爵和男爵之上。"
-    ]
-  },
-  {
-    "w": "adulteresses",
-    "r": "23:45",
-    "v": "[23:40] And furthermore, that ye have sent for men to come from far, unto whom a messenger was sent; and, lo, they came: for whom thou didst wash thyself, paintedst thy eyes, and deckedst thyself with ornaments, 23:41 And satest upon a stately bed, and a table prepared before it, whereupon thou hast set mine incense and mine oil. [23:42] And a voice of a multitude being at ease was with her: and with the men of the common sort were brought Sabeans from the wilderness, which put bracelets upon their hands, and beautiful crowns upon their heads. [23:43] Then said I unto her that was old in adulteries, Will they now commit whoredoms with her, and she with them? 23:44 Yet they went in unto her, as they go in unto a woman that playeth the harlot: so went they in unto Aholah and unto Aholibah, the lewd women. ⭐[23:45] And the righteous men, they shall judge them after the manner of adulteresses, and after the manner of women that shed blood; because they are adulteresses, and blood is in their hands. [23:46] For thus saith the Lord GOD; I will bring up a company upon them, and will give them to be removed and spoiled. [23:47] And the company shall stone them with stones, and dispatch them with their swords; they shall slay their sons and their daughters, and burn up their houses with fire. [23:48] Thus will I cause lewdness to cease out of the land, that all women may be taught not to do after your lewdness.",
-    "ed": "Those who commit adultery; unfaithful women.",
-    "cd": "通姦的女人；不忠的婦女。",
-    "ex": "英漢雙解：那些犯通姦罪的人，或是不忠於丈夫的女人。",
-    "ds": [
-      " Firmament 指天穹或蒼穹，在古時的宇宙論中。",
-      "透露或揭露（隱藏的事物）。",
-      "在此上下文中，'companies'並未直接使用。然而，它可以指一個軍隊或戰士的部隊。"
-    ]
-  },
-  {
-    "w": "discontinue",
-    "r": "17:4",
-    "v": "[16:20] Shall a man make gods unto himself, and they are no gods? 16:21 Therefore, behold, I will this once cause them to know, I will cause them to know mine hand and my might; and they shall know that my name is The LORD. [17:1] The sin of Judah is written with a pen of iron, and with the point of a diamond: it is graven upon the table of their heart, and upon the horns of your altars; 17:2 Whilst their children remember their altars and their groves by the green trees upon the high hills. [17:3] O my mountain in the field, I will give thy substance and all thy treasures to the spoil, and thy high places for sin, throughout all thy borders. ⭐[17:4] And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever. [17:5] Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD. [17:6] For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited. [17:7] Blessed is the man that trusteth in the LORD, and whose hope the LORD is.",
-    "ed": "to stop or discontinue; to cease to exist or be used",
-    "cd": "停止；中止",
-    "ex": "英漢雙解：to stop or discontinue；停止；中止",
-    "ds": [
-      "嚴重的罪行或違法行為。",
-      "屍體",
-      "來者；新到的人"
-    ]
-  },
-  {
-    "w": "amen",
-    "r": "5:17",
-    "v": "[5:10] And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his. [5:11] And the LORD spake unto Moses, saying, 5:12 Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him, 5:13 And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken with the manner; 5:14 And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled: 5:15 Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance. [5:16] And the priest shall bring her near, and set her before the LORD: ⭐[5:17] And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put it into the water: 5:18 And the priest shall set the woman before the LORD, and uncover the woman’s head, and put the offering of memorial in her hands, which is the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse: 5:19 And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness with another instead of thy husband, be thou free from this bitter water that causeth the curse: 5:20 But if thou hast gone aside to another instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband: 5:21 Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to rot, and thy belly to swell; 5:22 And this water that causeth the curse shall go into thy bowels, to make thy belly to swell, and thy thigh to rot: And the woman shall say, Amen, amen. [5:23] And the priest shall write these curses in a book, and he shall blot them out with the bitter water: 5:24 And he shall cause the woman to drink the bitter water that causeth the curse: and the water that causeth the curse shall enter into her, and become bitter. [5:25] Then the priest shall take the jealousy offering out of the woman’s hand, and shall wave the offering before the LORD, and offer it upon the altar: 5:26 And the priest shall take an handful of the offering, even the memorial thereof, and burn it upon the altar, and afterward shall cause the woman to drink the water. [5:27] And when he hath made her to drink the water, then it shall come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, and become bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people.",
-    "ed": "Amen is used to express agreement or approval.",
-    "cd": "阿們用來表達同意或贊成。",
-    "ex": "阿們 (amen) 通常在祈禱結束時使用，表示對所說內容的認同和批准。",
-    "ds": [
-      "拘留；延遲離去。",
-      "拍手，指雙手相擊以表鼓掌或喝采。",
-      "被禁止或不容許的事物。"
-    ]
-  },
-  {
-    "w": "bolted",
-    "r": "13:18",
-    "v": "[13:15] Then Amnon hated her exceedingly; so that the hatred wherewith he hated her was greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone. [13:16] And she said unto him, There is no cause: this evil in sending me away is greater than the other that thou didst unto me. But he would not hearken unto her. [13:17] Then he called his servant that ministered unto him, and said, Put now this woman out from me, and bolt the door after her. ⭐[13:18] And she had a garment of divers colours upon her: for with such robes were the king’s daughters that were virgins apparelled. Then his servant brought her out, and bolted the door after her. [13:19] And Tamar put ashes on her head, and rent her garment of divers colours that was on her, and laid her hand on her head, and went on crying. [13:20] And Absalom her brother said unto her, Hath Amnon thy brother been with thee? but hold now thy peace, my sister: he is thy brother; regard not this thing. So Tamar remained desolate in her brother Absalom’s house. [13:21] But when king David heard of all these things, he was very wroth.",
-    "ed": "To secure a door by inserting a bolt; to lock tightly.",
-    "cd": "將門鎖緊或用鉤子固定。",
-    "ex": "bolted: 將門鎖緊或用鉤子固定。形容動作迅速且堅固地關上門。",
-    "ds": [
-      "地指整個星球或地面。",
-      "安託希雅是聖經中提到的一個名字，可能是某個個人或耶羅罕的後代。",
-      "Almodad是約kan的兒子。"
-    ]
-  },
-  {
-    "w": "eliphaz",
-    "r": "36:4",
-    "v": "[35:29] And Isaac gave up the ghost, and died, and was gathered unto his people, being old and full of days: and his sons Esau and Jacob buried him. [36:1] Now these are the generations of Esau, who is Edom. [36:2] Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite; 36:3 And Bashemath Ishmael’s daughter, sister of Nebajoth. ⭐[36:4] And Adah bare to Esau Eliphaz; and Bashemath bare Reuel; 36:5 And Aholibamah bare Jeush, and Jaalam, and Korah: these are the sons of Esau, which were born unto him in the land of Canaan. [36:6] And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob. [36:7] For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle. [36:8] Thus dwelt Esau in mount Seir: Esau is Edom.",
-    "ed": "Eliphaz是埃斯au的兒子之一，出自亞德阿（Adah）。",
-    "cd": "以利法是以斯拉的兒子之一，來自亞達（亞哈比瑪的女兒）。",
-    "ex": "Eliphaz - 以利法；埃斯拉的兒子，出自亞德阿。",
-    "ds": [
-      "使自己熟悉；瞭解",
-      "建立或奠定某事物的基礎，常指堅固而穩固的地基。",
-      "醜陋的人或粗魯無禮的人。"
-    ]
-  },
-  {
-    "w": "expedient",
-    "r": "11:49",
-    "v": "[11:46] But some of them went their ways to the Pharisees, and told them what things Jesus had done. [11:47] Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles. [11:48] If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation. ⭐[11:49] And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all, 11:50 Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not. [11:51] And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation; 11:52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad. [11:53] Then from that day forth they took counsel together for to put him to death. [11:54] Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.",
-    "ed": "Conducive to a particular purpose or end; practical and convenient.",
-    "cd": "有助於特定目的或結果；實用且方便。",
-    "ex": "「expedient」在這段經文中指的是對於某一特定目的而言是合適和有用的。這意味著某種行動或決定，即使它可能不是道德上最佳的選擇，但在當時的情況下，它有助於達成更為重要的目標。",
-    "ds": [
-      "委派；派遣",
-      "形容詞，指視力完全失明的人或事物。",
-      "駱駝"
-    ]
-  },
-  {
-    "w": "crookbackt",
-    "r": "21:18",
-    "v": "[21:14] A widow, or a divorced woman, or profane, or an harlot, these shall he not take: but he shall take a virgin of his own people to wife. [21:15] Neither shall he profane his seed among his people: for I the LORD do sanctify him. [21:16] And the LORD spake unto Moses, saying, 21:17 Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God. ⭐[21:18] For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous, 21:19 Or a man that is brokenfooted, or brokenhanded, 21:20 Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken; 21:21 No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the LORD made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God. [21:22] He shall eat the bread of his God, both of the most holy, and of the holy. [21:23] Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them. [21:24] And Moses told it unto Aaron, and to his sons, and unto all the children of Israel.",
-    "ed": "A person with a curved spine or back.",
-    "cd": "脊樑彎曲的人。",
-    "ex": "「crookbackt」指脊樑彎曲或背脊有曲度的人。",
-    "ds": [
-      "「同盟」或「聯盟」，指國家或團體之間的聯合。",
-      "喂養；供食。",
-      "香菜；一種常用於烹調的小型芳香植物，葉子和種子皆可食用。"
-    ]
-  },
-  {
-    "w": "aznothtabor",
-    "r": "19:33",
-    "v": "[19:26] And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath; 19:27 And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to the valley of Jiphthahel toward the north side of Bethemek, and Neiel, and goeth out to Cabul on the left hand, 19:28 And Hebron, and Rehob, and Hammon, and Kanah, even unto great Zidon; 19:29 And then the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib: 19:30 Ummah also, and Aphek, and Rehob: twenty and two cities with their villages. [19:31] This is the inheritance of the tribe of the children of Asher according to their families, these cities with their villages. [19:32] The sixth lot came out to the children of Naphtali, even for the children of Naphtali according to their families. ⭐[19:33] And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan: 19:34 And then the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising. [19:35] And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth, 19:36 And Adamah, and Ramah, and Hazor, 19:37 And Kedesh, and Edrei, and Enhazor, 19:38 And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages. [19:39] This is the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages. [19:40] And the seventh lot came out for the tribe of the children of Dan according to their families.",
-    "ed": "Aznoth-tabor is a geographical location mentioned in the Bible.",
-    "cd": "阿嫩陀伯是聖經中提到的地點。",
-    "ex": "阿嫩陀伯是在《聖經》中提及的地名，該詞在希伯來文中為'Aznoth-tabor'。",
-    "ds": [
-      "中止，停止",
-      "深藍色，常用於宗教或禮儀的場合。",
-      "從井或水槽中抽取水的人。"
-    ]
-  },
-  {
-    "w": "bealiah",
-    "r": "12:4",
-    "v": "[12:1] Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war. [12:2] They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul’s brethren of Benjamin. [12:3] The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; and Jeziel, and Pelet, the sons of Azmaveth; and Berachah, and Jehu the Antothite. ⭐[12:4] And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite, 12:5 Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite, 12:6 Elkanah, and Jesiah, and Azareel, and Joezer, and Jashobeam, the Korhites, 12:7 And Joelah, and Zebadiah, the sons of Jeroham of Gedor. [12:8] And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men of war fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains; [12:9] Ezer the first, Obadiah the second, Eliab the third, 12:10 Mishmannah the fourth, Jeremiah the fifth, 12:11 Attai the sixth, Eliel the seventh, 12:12 Johanan the eighth, Elzabad the ninth, 12:13 Jeremiah the tenth, Machbanai the eleventh. [12:14] These were of the sons of Gad, captains of the host: one of the least was over an hundred, and the greatest over a thousand.",
-    "ed": "Bealiah is a name mentioned in the Bible, specifically in the Book of Samuel.",
-    "cd": "貝利雅是在聖經中撒母耳記下第十二章第四節提到的一個名字。",
-    "ex": "Bealiah 是聖經撒母耳記下第十二章第四節中出現的一個人名。這個名字在中文譯本中通常被直接保留為原名，沒有特定的雙語解釋。",
-    "ds": [
-      "選擇；偏愛。",
-      "在此上下文中的‘chapiters’是指放在柱子頂部的頂飾或冠飾。",
-      "創世；創造。"
-    ]
-  },
-  {
-    "w": "arphaxad",
-    "r": "10:22",
-    "v": "[10:19] And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha. [10:20] These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations. [10:21] Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born. ⭐[10:22] The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram. [10:23] And the children of Aram; Uz, and Hul, and Gether, and Mash. [10:24] And Arphaxad begat Salah; and Salah begat Eber. [10:25] And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother’s name was Joktan.",
-    "ed": "Arphaxad is a son of Shem in the genealogy provided.",
-    "cd": "阿弗哈散是希未的兒子，在所列的譜系中。",
-    "ex": "阿弗哈散在希伯來文譜系中被列出為希未的兒子，這反映了古代以色列人的家族歷史和文化背景。",
-    "ds": [
-      "強烈要求或索要某物。",
-      "迪莫娜是經文中的地名。",
-      "表示時間上的後續，意為「之後」或「其後」。"
-    ]
-  },
-  {
-    "w": "gibeonites",
-    "r": "21:1",
-    "v": "[20:21] The matter is not so: but a man of mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, even against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall. [20:22] Then the woman went unto all the people in her wisdom. And they cut off the head of Sheba the son of Bichri, and cast it out to Joab. And he blew a trumpet, and they retired from the city, every man to his tent. And Joab returned to Jerusalem unto the king. [20:23] Now Joab was over all the host of Israel: and Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites: 20:24 And Adoram was over the tribute: and Jehoshaphat the son of Ahilud was recorder: 20:25 And Sheva was scribe: and Zadok and Abiathar were the priests: 20:26 And Ira also the Jairite was a chief ruler about David. ⭐[21:1] Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites. [21:2] And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.) [21:3] Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the LORD? 21:4 And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, that will I do for you. [21:5] And they answered the king, The man that consumed us, and that devised against us that we should be destroyed from remaining in any of the coasts of Israel, 21:6 Let seven men of his sons be delivered unto us, and we will hang them up unto the LORD in Gibeah of Saul, whom the LORD did choose. And the king said, I will give them.",
-    "ed": "Gibeonites refers to a group of people mentioned in the Bible who were not part of the Israelite tribes but were descendants of the Amorites.",
-    "cd": "吉必人是指《聖經》中提到的一群人，他們不是以色列支派的後裔，而是亞摩利人的後代。",
-    "ex": "Gibeonites 是指《聖經》中提到的一個民族，這些人在希伯來文中被稱為 Gibeonites，在中文中則譯為 吉必人。他們不是以色列支派的後裔，而是亞摩利人的後代。",
-    "ds": [
-      "面部朝向或面對的方向；外貌或表情。",
-      "查詢；探問",
-      " Burst 指突然破裂或爆炸開來。"
-    ]
-  },
-  {
-    "w": "caves",
-    "r": "6:2",
-    "v": "[5:27] At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell: where he bowed, there he fell down dead. [5:28] The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot so long in coming? why tarry the wheels of his chariots? 5:29 Her wise ladies answered her, yea, she returned answer to herself, 5:30 Have they not sped? have they not divided the prey; to every man a damsel or two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, meet for the necks of them that take the spoil? 5:31 So let all thine enemies perish, O LORD: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years. [6:1] And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years. ⭐[6:2] And the hand of Midian prevailed against Israel: and because of the Midianites the children of Israel made them the dens which are in the mountains, and caves, and strong holds. [6:3] And so it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east, even they came up against them; 6:4 And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass. [6:5] For they came up with their cattle and their tents, and they came as grasshoppers for multitude; for both they and their camels were without number: and they entered into the land to destroy it. [6:6] And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the LORD.",
-    "ed": "n. A natural opening in a rock or hillside large enough to be entered; a cavern.",
-    "cd": "n. 山洞；巖穴",
-    "ex": "n. 山洞；巖穴 - 一個足夠大可以進入的岩石或山壁中的天然開口，即洞穴。",
-    "ds": [
-      "河岸或溪邊被淹沒的那片土地。",
-      "《聖經》中的人名。",
-      "亞希澤，亞米施達的兒子。"
-    ]
-  },
-  {
-    "w": "centurions",
-    "r": "21:32",
-    "v": "[21:29] (For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.) [21:30] And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and forthwith the doors were shut. [21:31] And as they went about to kill him, tidings came unto the chief captain of the band, that all Jerusalem was in an uproar. ⭐[21:32] Who immediately took soldiers and centurions, and ran down unto them: and when they saw the chief captain and the soldiers, they left beating of Paul. [21:33] Then the chief captain came near, and took him, and commanded him to be bound with two chains; and demanded who he was, and what he had done. [21:34] And some cried one thing, some another, among the multitude: and when he could not know the certainty for the tumult, he commanded him to be carried into the castle. [21:35] And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.",
-    "ed": "A centurion was an officer in the Roman army who commanded a century (80 men).",
-    "cd": "百夫長是一名在羅馬軍隊中指揮一班（八十人）的軍官。",
-    "ex": "百夫長是指羅馬軍隊中的一種軍官職位，他們負責指揮一個由八十名士兵組成的單位。這個詞在這段經文中被提及，顯示出當時羅馬軍隊介入了猶太人的騷動事件。",
-    "ds": [
-      "感到非常擔心或不安。",
-      " Emmanuel 意指「神與我們同在」，表示上帝以人形出現。",
-      "太監，指古代宮廷中被劁去生殖器的男性。"
-    ]
-  },
-  {
-    "w": "benches",
-    "r": "27:6",
-    "v": "[27:1] The word of the LORD came again unto me, saying, 27:2 Now, thou son of man, take up a lamentation for Tyrus; 27:3 And say unto Tyrus, O thou that art situate at the entry of the sea, which art a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, thou hast said, I am of perfect beauty. [27:4] Thy borders are in the midst of the seas, thy builders have perfected thy beauty. [27:5] They have made all thy ship boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee. ⭐[27:6] Of the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches of ivory, brought out of the isles of Chittim. [27:7] Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee. [27:8] The inhabitants of Zidon and Arvad were thy mariners: thy wise men, O Tyrus, that were in thee, were thy pilots. [27:9] The ancients of Gebal and the wise men thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise.",
-    "ed": "benches - noun, referring to seats or benches used for seating purposes.",
-    "cd": "座位 - 名詞，指用來坐的長椅或座位。",
-    "ex": "bench - 英文定義為座位或長椅，中文譯為座位，指的是用於就座的長形座椅。",
-    "ds": [
-      "Arod，加得支派的一個家族名稱。",
-      "完全擦除或刪除；銷毀。",
-      "伯拉基亞是大衛為在耶和華殿中唱歌的樂師所列舉的名字之一。"
-    ]
-  },
-  {
-    "w": "breaketh",
-    "r": "32:26",
-    "v": "[32:23] And he took them, and sent them over the brook, and sent over that he had. [32:24] And Jacob was left alone; and there wrestled a man with him until the breaking of the day. [32:25] And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was out of joint, as he wrestled with him. ⭐[32:26] And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me. [32:27] And he said unto him, What is thy name? And he said, Jacob. [32:28] And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed. [32:29] And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there.",
-    "ed": "to break; to dawn; to come to an end",
-    "cd": "打破；黎明；結束",
-    "ex": "breaketh - 打破；黎明；結束。在經文中表示天亮了。",
-    "ds": [
-      "城牆上的垛口或瞭望塔。",
-      "包圍；環繞",
-      "一群為宗教崇拜或其他目的而聚集的人。"
-    ]
-  },
-  {
-    "w": "adorned",
-    "r": "31:4",
-    "v": "[31:1] At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people. [31:2] Thus saith the LORD, The people which were left of the sword found grace in the wilderness; even Israel, when I went to cause him to rest. [31:3] The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee. ⭐[31:4] Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry. [31:5] Thou shalt yet plant vines upon the mountains of Samaria: the planters shall plant, and shall eat them as common things. [31:6] For there shall be a day, that the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God. [31:7] For thus saith the LORD; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O LORD, save thy people, the remnant of Israel.",
-    "ed": "To decorate or embellish with ornaments.",
-    "cd": "裝飾；妝點",
-    "ex": "形容詞，指以珠寶、繡花等物品來裝飾或美化某物。",
-    "ds": [
-      "圍裙；護身布",
-      "描述火的狀態或過程，特別是指火焰在燃燒時的情景。",
-      "造船工人，特別是指修造和修理船體的工匠"
-    ]
-  },
-  {
-    "w": "cleansing",
-    "r": "13:7",
-    "v": "[13:1] And the LORD spake unto Moses and Aaron, saying, 13:2 When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests: 13:3 And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean. [13:4] If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up him that hath the plague seven days: 13:5 And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more: [13:6] And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean. ⭐[13:7] But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again. [13:8] And if the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it is a leprosy. [13:9] When the plague of leprosy is in a man, then he shall be brought unto the priest; 13:10 And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising; 13:11 It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean. [13:12] And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that hath the plague from his head even to his foot, wheresoever the priest looketh; 13:13 Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean.",
-    "ed": "The process of making something clean or pure.",
-    "cd": "清潔或純淨的過程。",
-    "ex": "cleansing 指的是使某物變得乾淨或純淨的過程。在本節經文中，這個詞與痲瘋病的 CLEAN 処理相關聯。",
-    "ds": [
-      "布西（Buzi）的名稱",
-      "寓言，用來傳達道德教訓的神話故事",
-      "人的屍體。"
-    ]
-  },
-  {
-    "w": "assur",
-    "r": "4:1",
-    "v": "[3:10] And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel. [3:11] And they sang together by course in praising and giving thanks unto the LORD; because he is good, for his mercy endureth for ever toward Israel. [3:12] But many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy: 3:13 So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off. ⭐[4:1] Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel; 4:2 Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither. [4:3] But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, Ye have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia hath commanded us. [4:4] Then the people of the land weakened the hands of the people of Judah, and troubled them in building, 4:5 And hired counsellors against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia. [4:6] And in the reign of Ahasuerus, in the beginning of his reign, wrote they unto him an accusation against the inhabitants of Judah and Jerusalem.",
-    "ed": "Assur is a city and ancient Assyrian deity.",
-    "cd": "阿述是一位古代亞述神明或是一個地名。",
-    "ex": "「assur」在這段經文中指的是古代亞述的一位神明，也可以指代地名阿述。",
-    "ds": [
-      "阿瓦德，西尼珥山地的居民；亦指與推羅結盟的海港城市。",
-      "使有膽量；鼓勵",
-      "迦得支派的人。"
-    ]
-  },
-  {
-    "w": "fanners",
-    "r": "51:1",
-    "v": "[50:43] The king of Babylon hath heard the report of them, and his hands waxed feeble: anguish took hold of him, and pangs as of a woman in travail. [50:44] Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me? 50:45 Therefore hear ye the counsel of the LORD, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make their habitation desolate with them. [50:46] At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations. ⭐[51:1] Thus saith the LORD; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind; 51:2 And will send unto Babylon fanners, that shall fan her, and shall empty her land: for in the day of trouble they shall be against her round about. [51:3] Against him that bendeth let the archer bend his bow, and against him that lifteth himself up in his brigandine: and spare ye not her young men; destroy ye utterly all her host. [51:4] Thus the slain shall fall in the land of the Chaldeans, and they that are thrust through in her streets. [51:5] For Israel hath not been forsaken, nor Judah of his God, of the LORD of hosts; though their land was filled with sin against the Holy One of Israel.",
-    "ed": "Those who fan or stir up something, often metaphorically used for those who cause disturbance or chaos.",
-    "cd": "扇風者，比喻那些引起動亂或混亂的人。",
-    "ex": "「fanners」在此處用作比喻，指的是那些煽動或製造動亂的人。這可能是指那些將要被派遣去擾亂巴比倫及其居民的使者。",
-    "ds": [
-      "屬於；附屬於",
-      "切割；分割。",
-      "去取；取得"
-    ]
-  },
-  {
-    "w": "archangel",
-    "r": "4:16",
-    "v": "[4:13] But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. [4:14] For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him. [4:15] For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep. ⭐[4:16] For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: 4:17 Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord. [4:18] Wherefore comfort one another with these words. [5:1] But of the times and the seasons, brethren, ye have no need that I write unto you. [5:2] For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.",
-    "ed": "An angel of high rank, next in power to God.",
-    "cd": "天使中地位崇高者，僅次於神。",
-    "ex": "「archangel」是指在天使階級中地位極其崇高的天使，僅次於神的存在。這詞彙在聖經中常被提及，用來描述一些特別的天使，如米迦勒和加百列。",
-    "ds": [
-      "擊打；壓制",
-      "bethul是聖經中提到的地名。",
-      "阿維特人"
-    ]
-  },
-  {
-    "w": "degrees",
-    "r": "20:8",
-    "v": "[20:4] And it came to pass, afore Isaiah was gone out into the middle court, that the word of the LORD came to him, saying, 20:5 Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD. [20:6] And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake. [20:7] And Isaiah said, Take a lump of figs. And they took and laid it on the boil, and he recovered. ⭐[20:8] And Hezekiah said unto Isaiah, What shall be the sign that the LORD will heal me, and that I shall go up into the house of the LORD the third day? 20:9 And Isaiah said, This sign shalt thou have of the LORD, that the LORD will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees? 20:10 And Hezekiah answered, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees. [20:11] And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz. [20:12] At that time Berodachbaladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick. [20:13] And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.",
-    "ed": "A unit of measurement for angles or temperature.",
-    "cd": "度；溫度單位或角度的測量單位。",
-    "ex": "英漢雙解：degrees - 度；溫度單位或角度的測量單位。在這段經文中，'degrees' 是指日影移動的角度。",
-    "ds": [
-      "被保羅差派給提多的人，為了一個特定的目的。",
-      "額頭",
-      "用來強調某件事情未來確實會發生。"
-    ]
-  },
-  {
-    "w": "birds",
-    "r": "15:10",
-    "v": "[15:6] And he believed in the LORD; and he counted it to him for righteousness. [15:7] And he said unto him, I am the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it. [15:8] And he said, LORD God, whereby shall I know that I shall inherit it? 15:9 And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon. ⭐[15:10] And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not. [15:11] And when the fowls came down upon the carcases, Abram drove them away. [15:12] And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him. [15:13] And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years; 15:14 And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance.",
-    "ed": "指飛鳥，如鷹、鵝等。",
-    "cd": "指飛鳥，如鷹、鵝等。",
-    "ex": "英文定義：指飛鳥，如鷹、鵝等。 中文解釋：指飛鳥，如鷹、鵝等。",
-    "ds": [
-      "敬畏；害怕",
-      "巴拉克是這段聖經中的一個人名。",
-      "排除；遺漏。"
-    ]
-  },
-  {
-    "w": "controversies",
-    "r": "19:8",
-    "v": "[19:4] And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto the LORD God of their fathers. [19:5] And he set judges in the land throughout all the fenced cities of Judah, city by city, 19:6 And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who is with you in the judgment. [19:7] Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts. ⭐[19:8] Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem. [19:9] And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart. [19:10] And what cause soever shall come to you of your brethren that dwell in your cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and so wrath come upon you, and upon your brethren: this do, and ye shall not trespass. [19:11] And, behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good.",
-    "ed": "Disputes or disagreements, especially in a legal context.",
-    "cd": "爭議或糾紛，特別是在法律上的爭議。",
-    "ex": "英文定義為‘爭議或糾紛’，特別是在法律上的爭議。中文則指‘爭議或糾紛’，尤其是在法律或判決上的分歧。",
-    "ds": [
-      "充盈；充裕。",
-      "一個地名，通常譯為‘赫伯倫’。",
-      "工匠，指以手工技巧製造物品的人，特別是手工藝人。"
-    ]
-  },
-  {
-    "w": "discharged",
-    "r": "5:9",
-    "v": "[5:6] Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that can skill to hew timber like unto the Sidonians. [5:7] And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the LORD this day, which hath given unto David a wise son over this great people. [5:8] And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: and I will do all thy desire concerning timber of cedar, and concerning timber of fir. ⭐[5:9] My servants shall bring them down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive them: and thou shalt accomplish my desire, in giving food for my household. [5:10] So Hiram gave Solomon cedar trees and fir trees according to all his desire. [5:11] And Solomon gave Hiram twenty thousand measures of wheat for food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year. [5:12] And the LORD gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.",
-    "ed": "To discharge goods from a ship or vessel; to unload.",
-    "cd": "從船隻上卸下貨物；解除安裝。",
-    "ex": "「discharged」在此句中意為將木材從船上卸下並運送到指定的地點。",
-    "ds": [
-      "一個用來盛裝液體的玻璃或塑膠容器。",
-      "豐厚地；慷慨地",
-      "裝模作樣，掩飾真實情感或意圖以給人假象"
+      "Dimonah is a place name mentioned in the passage.",
+      "To form or construct (something) in a particular way; to give shape or structure to.",
+      "Apollonia"
     ]
   }
 ]
