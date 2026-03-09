@@ -507,6 +507,26 @@
   {
     "id": 102,
     "file": "lesson_102.json",
-    "count": 20
+    "count": 50
+  },
+  {
+    "id": 103,
+    "file": "lesson_103.json",
+    "count": 50
+  },
+  {
+    "id": 104,
+    "file": "lesson_104.json",
+    "count": 50
+  },
+  {
+    "id": 105,
+    "file": "lesson_105.json",
+    "count": 50
+  },
+  {
+    "id": 106,
+    "file": "lesson_106.json",
+    "count": 16
   }
 ]
