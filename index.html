@@ -3,96 +3,108 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KJV 聖經單字大師 (英文挑戰版)</title>
+    <title>KJV 聖經單字大師 (單字選項版)</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         .card-inner { transition: transform 0.6s; transform-style: preserve-3d; }
         .flipped { transform: rotateY(180deg); }
         .card-front, .card-back { backface-visibility: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
         .card-back { transform: rotateY(180deg); }
-        .speaker-btn { cursor: pointer; transition: transform 0.2s; }
-        .speaker-btn:active { transform: scale(1.2); }
+        .speaker-btn { cursor: pointer; transition: transform 0.2s; opacity: 0.6; }
+        .speaker-btn:hover { opacity: 1; transform: scale(1.1); }
+        .speaker-btn:active { transform: scale(0.9); }
         [v-cloak] { display: none; }
     </style>
 </head>
-<body class="bg-stone-100 text-stone-900 font-serif">
+<body class="bg-stone-50 text-stone-900 font-serif">
     <div id="app" v-cloak class="max-w-2xl mx-auto p-4 pb-20">
         <header class="text-center py-8">
-            <h1 class="text-3xl font-bold text-stone-700">📖 KJV Bible Vocab</h1>
-            <div class="mt-4 flex justify-center gap-4">
-                <button @click="switchMode('card')" :class="mode=='card'?'bg-stone-700 text-white':'bg-white'" class="px-6 py-2 rounded-full shadow transition">單字卡</button>
-                <button @click="switchMode('quiz')" :class="mode=='quiz'?'bg-stone-700 text-white':'bg-white'" class="px-6 py-2 rounded-full shadow transition">多選測驗</button>
+            <h1 class="text-3xl font-black text-stone-800 tracking-tight">📖 KJV Bible Vocab</h1>
+            <p class="text-xs text-stone-400 mt-2 uppercase tracking-widest">Mastering the language of the King James Bible</p>
+            <div class="mt-6 flex justify-center gap-4">
+                <button @click="switchMode('card')" :class="mode=='card'?'bg-stone-800 text-white shadow-lg':'bg-white text-stone-500'" class="px-8 py-2 rounded-full text-sm font-bold transition-all">單字卡</button>
+                <button @click="switchMode('quiz')" :class="mode=='quiz'?'bg-stone-800 text-white shadow-lg':'bg-white text-stone-500'" class="px-8 py-2 rounded-full text-sm font-bold transition-all">多選測驗</button>
             </div>
         </header>
 
         <div v-if="!currentLesson" class="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div v-for="l in manifest" :key="l.id" @click="loadLesson(l.file)" 
-                 class="p-6 bg-white rounded-2xl shadow-sm border border-stone-200 cursor-pointer hover:border-stone-400 transition">
-                <h3 class="font-bold text-lg">Lesson {{l.id}}</h3>
-                <p class="text-xs text-stone-500 uppercase tracking-widest mt-1">{{l.count}} Vocabulary Words</p>
+                 class="p-6 bg-white rounded-3xl shadow-sm border border-stone-200 cursor-pointer hover:border-stone-400 hover:shadow-md transition-all">
+                <h3 class="font-black text-xl text-stone-700">Lesson {{l.id}}</h3>
+                <div class="flex items-center justify-between mt-2">
+                    <span class="text-xs text-stone-400 font-mono">{{l.count}} WORDS</span>
+                    <span class="text-stone-300">→</span>
+                </div>
             </div>
         </div>
 
         <div v-else>
             <div class="flex justify-between items-center mb-6">
-                <button @click="currentLesson=null" class="text-stone-500 hover:text-stone-800 text-sm font-bold">← BACK</button>
-                <span class="text-xs font-mono bg-stone-200 px-3 py-1 rounded-full">{{index + 1}} / {{quizData.length}}</span>
+                <button @click="currentLesson=null" class="text-stone-400 hover:text-stone-800 text-xs font-black tracking-widest">← EXIT LESSON</button>
+                <span class="text-[10px] font-black bg-stone-200 text-stone-600 px-3 py-1 rounded-full tracking-widest">{{index + 1}} / {{quizData.length}}</span>
             </div>
 
             <div v-if="mode=='card'" class="relative h-96 w-full">
                 <div class="card-inner w-full h-full cursor-pointer" :class="{flipped: isFlipped}" @click="isFlipped = !isFlipped">
-                    <div class="card-front bg-white p-8 rounded-3xl shadow-xl border border-stone-200 flex flex-col justify-center items-center">
-                        <span class="text-stone-400 text-xs mb-4 tracking-tighter">{{quizData[index].r}}</span>
+                    <div class="card-front bg-white p-8 rounded-[2rem] shadow-xl border border-stone-100 flex flex-col justify-center items-center">
+                        <span class="text-stone-300 text-[10px] mb-4 font-mono tracking-widest uppercase">{{quizData[index].r}}</span>
                         <div class="flex items-center gap-4">
-                            <h2 class="text-5xl font-black text-stone-800">{{quizData[index].w}}</h2>
+                            <h2 class="text-5xl font-black text-stone-800 tracking-tighter">{{quizData[index].w}}</h2>
                             <span @click.stop="speak(quizData[index].w)" class="speaker-btn text-2xl">🔊</span>
                         </div>
-                        <p class="mt-12 text-stone-300 text-sm italic">Click to flip for Chinese analysis</p>
+                        <p class="mt-16 text-stone-300 text-[10px] uppercase tracking-[0.2em] font-bold">Click to flip</p>
                     </div>
-                    <div class="card-back bg-stone-800 text-stone-100 p-8 rounded-3xl shadow-xl overflow-y-auto">
-                        <div class="flex justify-between items-start mb-4">
-                            <h3 class="text-3xl font-bold text-amber-400">{{quizData[index].cd}}</h3>
+                    <div class="card-back bg-stone-900 text-stone-100 p-8 rounded-[2rem] shadow-2xl overflow-y-auto">
+                        <div class="flex justify-between items-start mb-6">
+                            <div>
+                                <h3 class="text-3xl font-bold text-amber-400 mb-1">{{quizData[index].cd}}</h3>
+                                <p class="text-stone-400 text-xs italic">{{quizData[index].ed}}</p>
+                            </div>
                             <span @click.stop="speak(quizData[index].v)" class="speaker-btn text-xl">🔊</span>
                         </div>
-                        <p class="text-sm leading-relaxed mb-6 opacity-90">{{quizData[index].ex}}</p>
-                        <div class="text-[10px] border-t border-stone-600 pt-4 italic text-stone-400">
-                            Context: {{quizData[index].v}}
+                        <p class="text-sm leading-relaxed mb-6 text-stone-300">{{quizData[index].ex}}</p>
+                        <div class="text-[10px] border-t border-stone-800 pt-4 italic text-stone-500">
+                            "{{quizData[index].v}}"
                         </div>
                     </div>
                 </div>
             </div>
 
             <div v-if="mode=='quiz'" class="space-y-6">
-                <div class="bg-white p-8 rounded-3xl shadow-sm border border-stone-200 relative">
+                <div class="bg-white p-8 rounded-[2rem] shadow-sm border border-stone-200">
                     <div class="flex justify-between items-center mb-4">
-                        <h4 class="text-xs font-bold text-stone-400 uppercase tracking-widest">Context Bible Verse</h4>
-                        <span @click="speak(quizData[index].v)" class="speaker-btn text-lg">🔊</span>
+                        <h4 class="text-[10px] font-black text-stone-300 uppercase tracking-[0.2em]">English Definition</h4>
                     </div>
-                    <p class="text-xl leading-relaxed text-stone-800" v-html="clozeText"></p>
+                    <p class="text-2xl font-black text-stone-800 mb-8 leading-tight">{{ quizData[index].ed }}</p>
+                    
+                    <div class="bg-stone-50 p-6 rounded-2xl border border-stone-100 relative">
+                        <span @click="speak(quizData[index].v)" class="speaker-btn text-sm absolute top-3 right-3">🔊</span>
+                        <p class="text-base text-stone-600 italic leading-relaxed" v-html="clozeText"></p>
+                    </div>
                 </div>
 
-                <div class="grid grid-cols-1 gap-3">
+                <div class="grid grid-cols-2 gap-4">
                     <button v-for="(opt, idx) in options" :key="idx" 
                             @click="checkAnswer(opt)"
                             :disabled="answered"
                             :class="getOptionClass(opt)"
-                            class="p-5 text-left rounded-2xl border-2 transition-all duration-300 text-sm leading-snug">
+                            class="p-6 text-center rounded-2xl border-2 transition-all duration-300 text-lg font-black tracking-tight uppercase shadow-sm">
                         {{ opt }}
                     </button>
                 </div>
 
-                <div v-if="answered" class="mt-6 p-6 bg-amber-50 rounded-3xl border border-amber-200 shadow-inner animate-in fade-in duration-500">
-                    <div class="flex items-center gap-3 mb-3">
-                        <span class="bg-amber-600 text-white text-[10px] px-2 py-0.5 rounded-full font-bold uppercase">Translation</span>
-                        <h3 class="font-bold text-amber-900 text-2xl">{{ quizData[index].cd }}</h3>
+                <div v-if="answered" class="mt-8 p-8 bg-amber-50 rounded-[2rem] border border-amber-200 shadow-inner animate-in fade-in slide-in-from-bottom-4 duration-500">
+                    <div class="flex items-center gap-3 mb-4">
+                        <span class="bg-amber-600 text-white text-[9px] px-2 py-1 rounded-full font-black uppercase tracking-widest">Chinese</span>
+                        <h3 class="font-black text-amber-900 text-3xl">{{ quizData[index].cd }}</h3>
                     </div>
-                    <p class="text-base text-amber-800 leading-relaxed">{{ quizData[index].ex }}</p>
+                    <p class="text-sm text-amber-800 leading-relaxed font-medium">{{ quizData[index].ex }}</p>
                 </div>
             </div>
 
-            <div class="flex justify-between mt-10">
-                <button @click="prevWord" :disabled="index === 0" class="px-6 py-2 text-stone-400 disabled:opacity-20 hover:text-stone-800 transition">PREV</button>
-                <button @click="nextWord" class="px-10 py-3 bg-stone-800 text-white rounded-full shadow-lg hover:bg-stone-700 transition active:scale-95">
+            <div class="flex justify-between mt-12">
+                <button @click="prevWord" :disabled="index === 0" class="px-6 py-2 text-stone-400 font-black text-[10px] tracking-widest disabled:opacity-10 hover:text-stone-800 transition">PREV</button>
+                <button @click="nextWord" class="px-10 py-4 bg-stone-900 text-white rounded-full shadow-xl hover:bg-stone-700 transition active:scale-95 font-black text-xs tracking-widest">
                     {{ index === quizData.length - 1 ? 'FINISH' : 'NEXT WORD' }}
                 </button>
             </div>
@@ -119,32 +131,28 @@
                     const synth = window.speechSynthesis;
                     const utter = new SpeechSynthesisUtterance(cleanText);
                     utter.lang = 'en-US'; 
-                    utter.rate = 0.85;
+                    utter.rate = 0.8;
                     synth.cancel();
                     synth.speak(utter);
                 };
 
-                fetch('quiz_app_data/manifest.json').then(r => r.json()).then(d => manifest.value = d).catch(err => console.error("Error loading manifest:", err));
+                fetch('quiz_app_data/manifest.json').then(r => r.json()).then(d => manifest.value = d);
 
                 const loadLesson = async (file) => {
-                    try {
-                        const res = await fetch(`quiz_app_data/${file}`);
-                        quizData.value = await res.json();
-                        currentLesson.value = file;
-                        resetState();
-                    } catch (err) {
-                        console.error("Error loading lesson:", err);
-                    }
+                    const res = await fetch(`quiz_app_data/${file}`);
+                    quizData.value = await res.json();
+                    currentLesson.value = file;
+                    resetState();
                 };
 
                 const resetState = () => {
                     isFlipped.value = false;
                     answered.value = false;
                     selectedAnswer.value = null;
-                    index.value = index.value || 0;
                     if(quizData.value && quizData.value[index.value]) {
                         const item = quizData.value[index.value];
-                        options.value = [item.ed, ...item.ds].sort(() => Math.random() - 0.5);
+                        // ⚡ 選項改用 w (正確單字) 與 ds (錯誤單字)
+                        options.value = [item.w, ...item.ds].sort(() => Math.random() - 0.5);
                     }
                 };
 
@@ -152,23 +160,25 @@
                     if (!quizData.value || !quizData.value[index.value]) return "";
                     const word = quizData.value[index.value].w;
                     const verse = quizData.value[index.value].v;
+                    // 不分大小寫搜尋單字並挖空
                     const regex = new RegExp(`\\b${word}\\b`, 'gi');
-                    return verse.replace(regex, `<span class="bg-amber-200 px-1 border-b-2 border-amber-500 font-bold">____</span>`);
+                    return verse.replace(regex, `<span class="bg-amber-200 px-1 border-b-2 border-amber-500 font-black text-stone-900">____</span>`);
                 });
 
                 const checkAnswer = (opt) => {
                     if (answered.value) return;
                     selectedAnswer.value = opt;
                     answered.value = true;
-                    if(opt === quizData.value[index.value].ed) speak(quizData.value[index.value].w);
+                    // 答對時發音該單字
+                    if(opt === quizData.value[index.value].w) speak(quizData.value[index.value].w);
                 };
 
                 const getOptionClass = (opt) => {
-                    if (!answered.value) return 'bg-white border-stone-200 hover:border-stone-800';
-                    const correct = quizData.value[index.value].ed;
-                    if (opt === correct) return 'bg-green-100 border-green-600 text-green-800 font-bold shadow-sm';
-                    if (opt === selectedAnswer.value) return 'bg-red-100 border-red-500 text-red-700';
-                    return 'bg-white border-stone-100 opacity-30';
+                    if (!answered.value) return 'bg-white border-stone-200 hover:border-stone-800 text-stone-600';
+                    const correct = quizData.value[index.value].w;
+                    if (opt === correct) return 'bg-green-600 border-green-600 text-white scale-105 z-10';
+                    if (opt === selectedAnswer.value) return 'bg-red-50 border-red-500 text-red-600 scale-95';
+                    return 'bg-white border-stone-100 opacity-20';
                 };
 
                 const switchMode = (m) => { mode.value = m; resetState(); };
@@ -180,11 +190,7 @@
                         index.value = 0;
                     }
                 };
-                const prevWord = () => { 
-                    if(index.value > 0) { 
-                        index.value--; resetState(); 
-                    } 
-                };
+                const prevWord = () => { if(index.value > 0) { index.value--; resetState(); } };
 
                 return { manifest, currentLesson, quizData, mode, index, isFlipped, answered, options, clozeText, loadLesson, nextWord, prevWord, checkAnswer, getOptionClass, switchMode, speak };
             }
