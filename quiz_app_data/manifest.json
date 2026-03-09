@@ -527,6 +527,56 @@
   {
     "id": 106,
     "file": "lesson_106.json",
-    "count": 16
+    "count": 50
+  },
+  {
+    "id": 107,
+    "file": "lesson_107.json",
+    "count": 50
+  },
+  {
+    "id": 108,
+    "file": "lesson_108.json",
+    "count": 50
+  },
+  {
+    "id": 109,
+    "file": "lesson_109.json",
+    "count": 50
+  },
+  {
+    "id": 110,
+    "file": "lesson_110.json",
+    "count": 50
+  },
+  {
+    "id": 111,
+    "file": "lesson_111.json",
+    "count": 50
+  },
+  {
+    "id": 112,
+    "file": "lesson_112.json",
+    "count": 50
+  },
+  {
+    "id": 113,
+    "file": "lesson_113.json",
+    "count": 50
+  },
+  {
+    "id": 114,
+    "file": "lesson_114.json",
+    "count": 50
+  },
+  {
+    "id": 115,
+    "file": "lesson_115.json",
+    "count": 50
+  },
+  {
+    "id": 116,
+    "file": "lesson_116.json",
+    "count": 25
   }
 ]
