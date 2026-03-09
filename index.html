@@ -27,28 +27,34 @@
                     <span>Overall Completion</span>
                     <span>{{ completionRate }}%</span>
                 </div>
-                <div class="w-full bg-stone-200 h-1.5 rounded-full overflow-hidden">
-                    <div class="bg-green-500 h-full transition-all duration-700" :style="{width: completionRate + '%'}"></div>
+                <div class="w-full bg-stone-200 h-1.5 rounded-full overflow-hidden shadow-inner">
+                    <div class="bg-green-500 h-full transition-all duration-700 ease-out" :style="{width: completionRate + '%'}"></div>
                 </div>
             </div>
 
             <div class="mt-6 flex justify-center gap-3">
                 <button @click="switchMode('card')" :class="mode=='card'?'bg-stone-800 text-white shadow-lg':'bg-white text-stone-500'" class="px-6 py-2 rounded-full text-xs font-bold transition-all border border-stone-100">單字卡</button>
-                <button @click="switchMode('quiz')" :class="mode=='quiz'?'bg-stone-800 text-white shadow-lg':'bg-white text-stone-500'" class="px-6 py-2 rounded-full text-xs font-bold transition-all border border-stone-100">多選測驗</button>
-                <button @click="showMistakes = true" class="px-4 py-2 rounded-full text-xs font-bold bg-red-50 text-red-600 border border-red-100 hover:bg-red-100 transition-all">
+                <button @click="switchMode('quiz')" :class="mode=='quiz'?'bg-stone-800 text-white shadow-lg':'bg-white text-stone-500'" class="px-8 py-2 rounded-full text-xs font-bold transition-all border border-stone-100">多選測驗</button>
+                <button @click="showMistakes = true" class="px-4 py-2 rounded-full text-xs font-bold bg-red-50 text-red-600 border border-red-100 hover:bg-red-100 transition-all shadow-sm">
                     ⚠️ {{ mistakeCount }}
                 </button>
             </div>
         </header>
 
         <div v-if="showMistakes" class="fixed inset-0 z-50 bg-stone-900/60 backdrop-blur-sm p-4 flex items-center justify-center animate-in fade-in duration-300">
-            <div class="bg-white w-full max-w-md rounded-[2.5rem] p-8 max-h-[70vh] flex flex-col shadow-2xl">
+            <div class="bg-white w-full max-w-md rounded-[2.5rem] p-8 max-h-[75vh] flex flex-col shadow-2xl border border-stone-100">
                 <div class="flex justify-between items-center mb-6">
-                    <h3 class="font-black text-2xl text-stone-800 italic">Mistake Bank</h3>
-                    <button @click="showMistakes = false" class="text-stone-300 hover:text-stone-900 font-bold transition-colors text-sm">CLOSE</button>
+                    <div>
+                        <h3 class="font-black text-2xl text-stone-800 italic">Mistake Bank</h3>
+                        <p class="text-[10px] text-stone-400 font-bold uppercase tracking-widest">Targeted Review</p>
+                    </div>
+                    <div class="flex gap-4">
+                        <button @click="resetAllProgress" class="text-[10px] font-black text-red-500 hover:text-red-700 uppercase tracking-tighter">Reset All</button>
+                        <button @click="showMistakes = false" class="text-stone-300 hover:text-stone-900 font-bold transition-colors text-sm">CLOSE</button>
+                    </div>
                 </div>
                 <div class="overflow-y-auto flex-1 pr-2 space-y-3">
-                    <div v-if="mistakeCount == 0" class="text-center py-12 text-stone-400 italic">Excellent! No mistakes recorded.</div>
+                    <div v-if="mistakeCount == 0" class="text-center py-12 text-stone-400 italic">Excellent! Your error log is empty.</div>
                     <div v-for="(count, word) in mistakeRecords" :key="word" class="flex justify-between items-center p-4 bg-stone-50 rounded-2xl border border-stone-100">
                         <div>
                             <span class="font-black text-stone-800 uppercase tracking-tight">{{ word }}</span>
@@ -62,7 +68,7 @@
 
         <div v-if="!currentLesson" class="grid grid-cols-1 sm:grid-cols-2 gap-4 animate-in fade-in">
             <div v-for="l in manifest" :key="l.id" @click="loadLesson(l.file)" 
-                 class="p-6 bg-white rounded-3xl shadow-sm border border-stone-200 cursor-pointer hover:border-stone-800 hover:shadow-md transition-all group relative overflow-hidden">
+                 class="p-6 bg-white rounded-3xl shadow-sm border border-stone-200 cursor-pointer hover:border-stone-800 hover:shadow-md transition-all group relative">
                 <h3 class="font-black text-xl text-stone-700">Lesson {{l.id}}</h3>
                 <div class="flex items-center justify-between mt-2">
                     <span class="text-xs text-stone-400 font-mono tracking-tighter">{{l.count}} WORDS</span>
@@ -73,16 +79,16 @@
 
         <div v-else>
             <div class="flex justify-between items-center mb-6">
-                <button @click="currentLesson=null" class="text-stone-400 hover:text-stone-800 text-[10px] font-black tracking-widest">← EXIT LESSON</button>
+                <button @click="currentLesson=null" class="text-stone-400 hover:text-stone-800 text-[10px] font-black tracking-widest transition-colors">← EXIT LESSON</button>
                 <span class="text-[10px] font-black bg-stone-800 text-white px-3 py-1 rounded-full tracking-widest shadow-sm">{{index + 1}} / {{quizData.length}}</span>
             </div>
 
             <div v-if="mode=='card'" class="relative h-96 w-full">
                 <div class="card-inner w-full h-full cursor-pointer" :class="{flipped: isFlipped}" @click="isFlipped = !isFlipped">
                     <div class="card-front bg-white p-8 rounded-[2.5rem] shadow-xl border border-stone-100 flex flex-col justify-center items-center">
-                        <span class="text-stone-300 text-[10px] mb-4 font-mono tracking-widest uppercase">{{quizData[index].r}}</span>
+                        <span class="text-stone-300 text-[10px] mb-4 font-mono tracking-widest uppercase text-center px-4 leading-tight">{{quizData[index].r}}</span>
                         <div class="flex items-center gap-4">
-                            <h2 class="text-5xl font-black text-stone-800 tracking-tighter">{{quizData[index].w}}</h2>
+                            <h2 class="text-5xl font-black text-stone-800 tracking-tighter uppercase">{{quizData[index].w}}</h2>
                             <span @click.stop="speak(quizData[index].w)" class="speaker-btn text-2xl">🔊</span>
                         </div>
                     </div>
@@ -90,7 +96,7 @@
                         <div class="flex justify-between items-start mb-6">
                             <div>
                                 <h3 class="text-3xl font-bold text-amber-400 mb-1 leading-none">{{quizData[index].cd}}</h3>
-                                <p class="text-stone-400 text-[10px] italic tracking-tight">{{quizData[index].ed}}</p>
+                                <p class="text-stone-400 text-[10px] italic tracking-tight uppercase">{{quizData[index].ed}}</p>
                             </div>
                             <span @click.stop="speak(quizData[index].v)" class="speaker-btn text-xl">🔊</span>
                         </div>
@@ -104,11 +110,11 @@
 
             <div v-if="mode=='quiz'" class="space-y-4">
                 <div class="bg-white p-8 rounded-[2.5rem] shadow-sm border border-stone-200">
-                    <h4 class="text-[10px] font-black text-stone-300 uppercase tracking-widest mb-2">Definition</h4>
-                    <p class="text-2xl font-black text-stone-800 mb-8 leading-tight">{{ quizData[index].ed }}</p>
+                    <h4 class="text-[10px] font-black text-stone-300 uppercase tracking-widest mb-2">English Definition</h4>
+                    <p class="text-2xl font-black text-stone-800 mb-8 leading-tight tracking-tight">{{ quizData[index].ed }}</p>
                     
                     <div class="bg-stone-50 p-6 rounded-3xl border border-stone-100 relative">
-                        <span @click="speak(quizData[index].v)" class="speaker-btn text-sm absolute top-3 right-3 opacity-30">🔊</span>
+                        <span @click="speak(quizData[index].v)" class="speaker-btn text-sm absolute top-3 right-3 opacity-30 hover:opacity-100 transition">🔊</span>
                         <p class="text-base text-stone-500 italic leading-relaxed" v-html="clozeText"></p>
                     </div>
                 </div>
@@ -118,7 +124,7 @@
                             @click="handleCheck(opt)"
                             :disabled="answered"
                             :class="getOptionClass(opt)"
-                            class="p-6 text-center rounded-3xl border-2 transition-all duration-300 text-lg font-black tracking-tight uppercase">
+                            class="p-6 text-center rounded-3xl border-2 transition-all duration-300 text-lg font-black tracking-tight uppercase shadow-sm">
                         {{ opt }}
                     </button>
                 </div>
@@ -126,11 +132,11 @@
                 <div v-if="answered" class="mt-4 p-8 bg-amber-50 rounded-[2.5rem] border border-amber-200 animate-in fade-in slide-in-from-bottom-2 duration-500">
                     <div class="flex justify-between items-start mb-4">
                         <div class="flex items-center gap-3">
-                            <span class="bg-amber-600 text-white text-[9px] px-2 py-1 rounded-full font-black uppercase tracking-widest">Chinese</span>
+                            <span class="bg-amber-600 text-white text-[9px] px-2 py-1 rounded-full font-black uppercase tracking-widest shadow-sm">Chinese</span>
                             <h3 class="font-black text-amber-900 text-3xl tracking-tighter">{{ quizData[index].cd }}</h3>
                         </div>
                         <a :href="'https://www.biblegateway.com/passage/?search=' + encodeURIComponent(quizData[index].r) + '&version=KJV'" 
-                           target="_blank" class="text-[10px] font-bold text-amber-700 underline tracking-tighter">READ CHAPTER ↗</a>
+                           target="_blank" class="text-[10px] font-bold text-amber-700 underline tracking-tighter hover:text-amber-900 transition-colors">READ CHAPTER ↗</a>
                     </div>
                     <p class="text-sm text-amber-800 leading-relaxed font-medium">{{ quizData[index].ex }}</p>
                     <p class="mt-4 text-[10px] text-amber-600/50 font-mono italic tracking-tighter">Ref: {{ quizData[index].r }}</p>
@@ -138,8 +144,8 @@
             </div>
 
             <div class="flex justify-between mt-12 items-center">
-                <button @click="prevWord" :disabled="index === 0" class="px-6 py-2 text-stone-400 font-black text-[10px] tracking-widest disabled:opacity-10 hover:text-stone-800 transition">PREV</button>
-                <button @click="nextWord" class="px-10 py-4 bg-stone-900 text-white rounded-full shadow-xl hover:bg-stone-700 transition active:scale-95 font-black text-xs tracking-widest">
+                <button @click="prevWord" :disabled="index === 0" class="px-6 py-2 text-stone-400 font-black text-[10px] tracking-widest disabled:opacity-10 hover:text-stone-800 transition uppercase">PREV</button>
+                <button @click="nextWord" class="px-10 py-4 bg-stone-900 text-white rounded-full shadow-xl hover:bg-stone-700 transition active:scale-95 font-black text-xs tracking-widest uppercase">
                     {{ index === quizData.length - 1 ? 'FINISH' : 'NEXT WORD' }}
                 </button>
             </div>
@@ -148,7 +154,7 @@
 
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script>
-        const { createApp, ref, computed, watch } = Vue;
+        const { createApp, ref, computed } = Vue;
         createApp({
             setup() {
                 const manifest = ref([]);
@@ -161,15 +167,15 @@
                 const selectedAnswer = ref(null);
                 const options = ref([]);
 
-                // ⚡ 統計相關狀態
+                // ⚡ 學習統計狀態管理 (持久化儲存於 localStorage)
                 const showMistakes = ref(false);
                 const mistakeRecords = ref(JSON.parse(localStorage.getItem('kjv_mistakes') || '{}'));
                 const learnedWords = ref(new Set(JSON.parse(localStorage.getItem('kjv_learned') || '[]')));
                 
-                // ⚡ 計算完成率 (以 8000 字為目標)
+                // ⚡ 學習完成率計算 (目標 8000 單字)
                 const completionRate = computed(() => {
-                    const totalCount = 8000; 
-                    return Math.min(((learnedWords.value.size / totalCount) * 100), 100).toFixed(1);
+                    const totalTarget = 8000; 
+                    return Math.min(((learnedWords.value.size / totalTarget) * 100), 100).toFixed(1);
                 });
 
                 const mistakeCount = computed(() => Object.keys(mistakeRecords.value).length);
@@ -209,7 +215,7 @@
                     return quizData.value[index.value].v.replace(regex, `<span class="bg-amber-200 px-1 border-b-2 border-amber-500 font-black text-stone-900">____</span>`);
                 });
 
-                // ⚡ 處理答題邏輯
+                // ⚡ 核心答題紀錄邏輯
                 const handleCheck = (opt) => {
                     if (answered.value) return;
                     const correct = quizData.value[index.value].w;
@@ -221,6 +227,7 @@
                         learnedWords.value.add(correct);
                         localStorage.setItem('kjv_learned', JSON.stringify([...learnedWords.value]));
                     } else {
+                        // 紀錄錯誤次數
                         mistakeRecords.value[correct] = (mistakeRecords.value[correct] || 0) + 1;
                         localStorage.setItem('kjv_mistakes', JSON.stringify(mistakeRecords.value));
                     }
@@ -231,8 +238,20 @@
                     localStorage.setItem('kjv_mistakes', JSON.stringify(mistakeRecords.value));
                 };
 
+                // ⚡ 重置所有學習紀錄
+                const resetAllProgress = () => {
+                    if(confirm("❗ 警告：這將永久清除所有學習進度與錯誤紀錄。確定要重設嗎？")) {
+                        localStorage.removeItem('kjv_mistakes');
+                        localStorage.removeItem('kjv_learned');
+                        mistakeRecords.value = {};
+                        learnedWords.value = new Set();
+                        showMistakes.value = false;
+                        alert("✅ 數據已全數歸零。");
+                    }
+                };
+
                 const getOptionClass = (opt) => {
-                    if (!answered.value) return 'bg-white border-stone-100 hover:border-stone-800 text-stone-600';
+                    if (!answered.value) return 'bg-white border-stone-100 hover:border-stone-800 text-stone-600 hover:shadow-md';
                     const correct = quizData.value[index.value].w;
                     if (opt === correct) return 'bg-green-600 border-green-600 text-white shadow-lg scale-105 z-10';
                     if (opt === selectedAnswer.value) return 'bg-red-50 border-red-500 text-red-600 opacity-80';
@@ -249,7 +268,7 @@
                 return { 
                     manifest, currentLesson, quizData, mode, index, isFlipped, answered, options, clozeText, 
                     loadLesson, nextWord, prevWord, handleCheck, getOptionClass, switchMode, speak,
-                    showMistakes, mistakeRecords, learnedWords, completionRate, mistakeCount, clearMistake
+                    showMistakes, mistakeRecords, learnedWords, completionRate, mistakeCount, clearMistake, resetAllProgress
                 };
             }
         }).mount('#app');
