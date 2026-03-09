@@ -22,25 +22,25 @@
             <h1 class="text-3xl font-black text-stone-800 tracking-tight">📖 KJV Bible Vocab</h1>
             <p class="text-xs text-stone-400 mt-2 uppercase tracking-widest">Mastering the language of the King James Bible</p>
             <div class="mt-6 flex justify-center gap-4">
-                <button @click="switchMode('card')" :class="mode=='card'?'bg-stone-800 text-white shadow-lg':'bg-white text-stone-500'" class="px-8 py-2 rounded-full text-sm font-bold transition-all">單字卡</button>
-                <button @click="switchMode('quiz')" :class="mode=='quiz'?'bg-stone-800 text-white shadow-lg':'bg-white text-stone-500'" class="px-8 py-2 rounded-full text-sm font-bold transition-all">多選測驗</button>
+                <button @click="switchMode('card')" :class="mode=='card'?'bg-stone-800 text-white shadow-lg':'bg-white text-stone-500'" class="px-8 py-2 rounded-full text-sm font-bold transition-all border border-stone-100">單字卡</button>
+                <button @click="switchMode('quiz')" :class="mode=='quiz'?'bg-stone-800 text-white shadow-lg':'bg-white text-stone-500'" class="px-8 py-2 rounded-full text-sm font-bold transition-all border border-stone-100">多選測驗</button>
             </div>
         </header>
 
-        <div v-if="!currentLesson" class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div v-if="!currentLesson" class="grid grid-cols-1 sm:grid-cols-2 gap-4 animate-in fade-in duration-500">
             <div v-for="l in manifest" :key="l.id" @click="loadLesson(l.file)" 
-                 class="p-6 bg-white rounded-3xl shadow-sm border border-stone-200 cursor-pointer hover:border-stone-400 hover:shadow-md transition-all">
-                <h3 class="font-black text-xl text-stone-700">Lesson {{l.id}}</h3>
+                 class="p-6 bg-white rounded-3xl shadow-sm border border-stone-200 cursor-pointer hover:border-stone-400 hover:shadow-md transition-all group">
+                <h3 class="font-black text-xl text-stone-700 group-hover:text-stone-900">Lesson {{l.id}}</h3>
                 <div class="flex items-center justify-between mt-2">
-                    <span class="text-xs text-stone-400 font-mono">{{l.count}} WORDS</span>
-                    <span class="text-stone-300">→</span>
+                    <span class="text-xs text-stone-400 font-mono tracking-tighter">{{l.count}} WORDS</span>
+                    <span class="text-stone-300 group-hover:translate-x-1 transition-transform">→</span>
                 </div>
             </div>
         </div>
 
         <div v-else>
             <div class="flex justify-between items-center mb-6">
-                <button @click="currentLesson=null" class="text-stone-400 hover:text-stone-800 text-xs font-black tracking-widest">← EXIT LESSON</button>
+                <button @click="currentLesson=null" class="text-stone-400 hover:text-stone-800 text-xs font-black tracking-widest transition-colors">← EXIT LESSON</button>
                 <span class="text-[10px] font-black bg-stone-200 text-stone-600 px-3 py-1 rounded-full tracking-widest">{{index + 1}} / {{quizData.length}}</span>
             </div>
 
@@ -56,9 +56,9 @@
                     </div>
                     <div class="card-back bg-stone-900 text-stone-100 p-8 rounded-[2rem] shadow-2xl overflow-y-auto">
                         <div class="flex justify-between items-start mb-6">
-                            <div>
+                            <div class="pr-4">
                                 <h3 class="text-3xl font-bold text-amber-400 mb-1">{{quizData[index].cd}}</h3>
-                                <p class="text-stone-400 text-xs italic">{{quizData[index].ed}}</p>
+                                <p class="text-stone-400 text-xs italic leading-tight">{{quizData[index].ed}}</p>
                             </div>
                             <span @click.stop="speak(quizData[index].v)" class="speaker-btn text-xl">🔊</span>
                         </div>
@@ -75,11 +75,11 @@
                     <div class="flex justify-between items-center mb-4">
                         <h4 class="text-[10px] font-black text-stone-300 uppercase tracking-[0.2em]">English Definition</h4>
                     </div>
-                    <p class="text-2xl font-black text-stone-800 mb-8 leading-tight">{{ quizData[index].ed }}</p>
+                    <p class="text-2xl font-black text-stone-800 mb-8 leading-tight tracking-tight">{{ quizData[index].ed }}</p>
                     
                     <div class="bg-stone-50 p-6 rounded-2xl border border-stone-100 relative">
                         <span @click="speak(quizData[index].v)" class="speaker-btn text-sm absolute top-3 right-3">🔊</span>
-                        <p class="text-base text-stone-600 italic leading-relaxed" v-html="clozeText"></p>
+                        <p class="text-base text-stone-600 italic leading-relaxed pr-6" v-html="clozeText"></p>
                     </div>
                 </div>
 
@@ -94,17 +94,29 @@
                 </div>
 
                 <div v-if="answered" class="mt-8 p-8 bg-amber-50 rounded-[2rem] border border-amber-200 shadow-inner animate-in fade-in slide-in-from-bottom-4 duration-500">
-                    <div class="flex items-center gap-3 mb-4">
-                        <span class="bg-amber-600 text-white text-[9px] px-2 py-1 rounded-full font-black uppercase tracking-widest">Chinese</span>
-                        <h3 class="font-black text-amber-900 text-3xl">{{ quizData[index].cd }}</h3>
+                    <div class="flex justify-between items-start mb-4">
+                        <div class="flex items-center gap-3">
+                            <span class="bg-amber-600 text-white text-[9px] px-2 py-1 rounded-full font-black uppercase tracking-widest shadow-sm">Chinese</span>
+                            <h3 class="font-black text-amber-900 text-3xl tracking-tighter">{{ quizData[index].cd }}</h3>
+                        </div>
+                        <a :href="'https://www.biblegateway.com/passage/?search=' + encodeURIComponent(quizData[index].r) + '&version=KJV'" 
+                           target="_blank" 
+                           class="text-[10px] font-bold text-amber-700 underline tracking-tighter hover:text-amber-900 transition-colors">
+                           READ CHAPTER ↗
+                        </a>
                     </div>
                     <p class="text-sm text-amber-800 leading-relaxed font-medium">{{ quizData[index].ex }}</p>
+                    <p class="mt-4 text-[10px] text-amber-600/60 font-mono italic tracking-tight">Ref: {{ quizData[index].r }}</p>
                 </div>
             </div>
 
-            <div class="flex justify-between mt-12">
-                <button @click="prevWord" :disabled="index === 0" class="px-6 py-2 text-stone-400 font-black text-[10px] tracking-widest disabled:opacity-10 hover:text-stone-800 transition">PREV</button>
-                <button @click="nextWord" class="px-10 py-4 bg-stone-900 text-white rounded-full shadow-xl hover:bg-stone-700 transition active:scale-95 font-black text-xs tracking-widest">
+            <div class="flex justify-between mt-12 items-center">
+                <button @click="prevWord" :disabled="index === 0" 
+                        class="px-6 py-2 text-stone-400 font-black text-[10px] tracking-widest disabled:opacity-10 hover:text-stone-800 transition uppercase">
+                    PREV
+                </button>
+                <button @click="nextWord" 
+                        class="px-10 py-4 bg-stone-900 text-white rounded-full shadow-xl hover:bg-stone-700 transition active:scale-95 font-black text-xs tracking-widest uppercase">
                     {{ index === quizData.length - 1 ? 'FINISH' : 'NEXT WORD' }}
                 </button>
             </div>
@@ -142,6 +154,7 @@
                     const res = await fetch(`quiz_app_data/${file}`);
                     quizData.value = await res.json();
                     currentLesson.value = file;
+                    index.value = 0;
                     resetState();
                 };
 
@@ -151,7 +164,7 @@
                     selectedAnswer.value = null;
                     if(quizData.value && quizData.value[index.value]) {
                         const item = quizData.value[index.value];
-                        // ⚡ 選項改用 w (正確單字) 與 ds (錯誤單字)
+                        // 建立包含正確答案與干擾項的選項
                         options.value = [item.w, ...item.ds].sort(() => Math.random() - 0.5);
                     }
                 };
@@ -160,7 +173,7 @@
                     if (!quizData.value || !quizData.value[index.value]) return "";
                     const word = quizData.value[index.value].w;
                     const verse = quizData.value[index.value].v;
-                    // 不分大小寫搜尋單字並挖空
+                    // 使用正則表達式進行全字匹配挖空，不分大小寫
                     const regex = new RegExp(`\\b${word}\\b`, 'gi');
                     return verse.replace(regex, `<span class="bg-amber-200 px-1 border-b-2 border-amber-500 font-black text-stone-900">____</span>`);
                 });
@@ -169,15 +182,15 @@
                     if (answered.value) return;
                     selectedAnswer.value = opt;
                     answered.value = true;
-                    // 答對時發音該單字
+                    // 答對時自動發音正確單字
                     if(opt === quizData.value[index.value].w) speak(quizData.value[index.value].w);
                 };
 
                 const getOptionClass = (opt) => {
-                    if (!answered.value) return 'bg-white border-stone-200 hover:border-stone-800 text-stone-600';
+                    if (!answered.value) return 'bg-white border-stone-200 hover:border-stone-800 text-stone-600 hover:shadow-md';
                     const correct = quizData.value[index.value].w;
-                    if (opt === correct) return 'bg-green-600 border-green-600 text-white scale-105 z-10';
-                    if (opt === selectedAnswer.value) return 'bg-red-50 border-red-500 text-red-600 scale-95';
+                    if (opt === correct) return 'bg-green-600 border-green-600 text-white scale-105 z-10 shadow-lg';
+                    if (opt === selectedAnswer.value) return 'bg-red-50 border-red-500 text-red-600 scale-95 opacity-80';
                     return 'bg-white border-stone-100 opacity-20';
                 };
 
@@ -187,7 +200,6 @@
                         index.value++; resetState(); 
                     } else { 
                         currentLesson.value = null; 
-                        index.value = 0;
                     }
                 };
                 const prevWord = () => { if(index.value > 0) { index.value--; resetState(); } };
