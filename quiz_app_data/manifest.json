@@ -577,6 +577,641 @@
   {
     "id": 116,
     "file": "lesson_116.json",
-    "count": 25
+    "count": 50
+  },
+  {
+    "id": 117,
+    "file": "lesson_117.json",
+    "count": 50
+  },
+  {
+    "id": 118,
+    "file": "lesson_118.json",
+    "count": 50
+  },
+  {
+    "id": 119,
+    "file": "lesson_119.json",
+    "count": 50
+  },
+  {
+    "id": 120,
+    "file": "lesson_120.json",
+    "count": 50
+  },
+  {
+    "id": 121,
+    "file": "lesson_121.json",
+    "count": 50
+  },
+  {
+    "id": 122,
+    "file": "lesson_122.json",
+    "count": 50
+  },
+  {
+    "id": 123,
+    "file": "lesson_123.json",
+    "count": 50
+  },
+  {
+    "id": 124,
+    "file": "lesson_124.json",
+    "count": 50
+  },
+  {
+    "id": 125,
+    "file": "lesson_125.json",
+    "count": 50
+  },
+  {
+    "id": 126,
+    "file": "lesson_126.json",
+    "count": 50
+  },
+  {
+    "id": 127,
+    "file": "lesson_127.json",
+    "count": 50
+  },
+  {
+    "id": 128,
+    "file": "lesson_128.json",
+    "count": 50
+  },
+  {
+    "id": 129,
+    "file": "lesson_129.json",
+    "count": 50
+  },
+  {
+    "id": 130,
+    "file": "lesson_130.json",
+    "count": 50
+  },
+  {
+    "id": 131,
+    "file": "lesson_131.json",
+    "count": 50
+  },
+  {
+    "id": 132,
+    "file": "lesson_132.json",
+    "count": 50
+  },
+  {
+    "id": 133,
+    "file": "lesson_133.json",
+    "count": 50
+  },
+  {
+    "id": 134,
+    "file": "lesson_134.json",
+    "count": 50
+  },
+  {
+    "id": 135,
+    "file": "lesson_135.json",
+    "count": 50
+  },
+  {
+    "id": 136,
+    "file": "lesson_136.json",
+    "count": 50
+  },
+  {
+    "id": 137,
+    "file": "lesson_137.json",
+    "count": 50
+  },
+  {
+    "id": 138,
+    "file": "lesson_138.json",
+    "count": 50
+  },
+  {
+    "id": 139,
+    "file": "lesson_139.json",
+    "count": 50
+  },
+  {
+    "id": 140,
+    "file": "lesson_140.json",
+    "count": 50
+  },
+  {
+    "id": 141,
+    "file": "lesson_141.json",
+    "count": 50
+  },
+  {
+    "id": 142,
+    "file": "lesson_142.json",
+    "count": 50
+  },
+  {
+    "id": 143,
+    "file": "lesson_143.json",
+    "count": 50
+  },
+  {
+    "id": 144,
+    "file": "lesson_144.json",
+    "count": 50
+  },
+  {
+    "id": 145,
+    "file": "lesson_145.json",
+    "count": 50
+  },
+  {
+    "id": 146,
+    "file": "lesson_146.json",
+    "count": 50
+  },
+  {
+    "id": 147,
+    "file": "lesson_147.json",
+    "count": 50
+  },
+  {
+    "id": 148,
+    "file": "lesson_148.json",
+    "count": 50
+  },
+  {
+    "id": 149,
+    "file": "lesson_149.json",
+    "count": 50
+  },
+  {
+    "id": 150,
+    "file": "lesson_150.json",
+    "count": 50
+  },
+  {
+    "id": 151,
+    "file": "lesson_151.json",
+    "count": 50
+  },
+  {
+    "id": 152,
+    "file": "lesson_152.json",
+    "count": 50
+  },
+  {
+    "id": 153,
+    "file": "lesson_153.json",
+    "count": 50
+  },
+  {
+    "id": 154,
+    "file": "lesson_154.json",
+    "count": 50
+  },
+  {
+    "id": 155,
+    "file": "lesson_155.json",
+    "count": 50
+  },
+  {
+    "id": 156,
+    "file": "lesson_156.json",
+    "count": 50
+  },
+  {
+    "id": 157,
+    "file": "lesson_157.json",
+    "count": 50
+  },
+  {
+    "id": 158,
+    "file": "lesson_158.json",
+    "count": 50
+  },
+  {
+    "id": 159,
+    "file": "lesson_159.json",
+    "count": 50
+  },
+  {
+    "id": 160,
+    "file": "lesson_160.json",
+    "count": 50
+  },
+  {
+    "id": 161,
+    "file": "lesson_161.json",
+    "count": 50
+  },
+  {
+    "id": 162,
+    "file": "lesson_162.json",
+    "count": 50
+  },
+  {
+    "id": 163,
+    "file": "lesson_163.json",
+    "count": 50
+  },
+  {
+    "id": 164,
+    "file": "lesson_164.json",
+    "count": 50
+  },
+  {
+    "id": 165,
+    "file": "lesson_165.json",
+    "count": 50
+  },
+  {
+    "id": 166,
+    "file": "lesson_166.json",
+    "count": 50
+  },
+  {
+    "id": 167,
+    "file": "lesson_167.json",
+    "count": 50
+  },
+  {
+    "id": 168,
+    "file": "lesson_168.json",
+    "count": 50
+  },
+  {
+    "id": 169,
+    "file": "lesson_169.json",
+    "count": 50
+  },
+  {
+    "id": 170,
+    "file": "lesson_170.json",
+    "count": 50
+  },
+  {
+    "id": 171,
+    "file": "lesson_171.json",
+    "count": 50
+  },
+  {
+    "id": 172,
+    "file": "lesson_172.json",
+    "count": 50
+  },
+  {
+    "id": 173,
+    "file": "lesson_173.json",
+    "count": 50
+  },
+  {
+    "id": 174,
+    "file": "lesson_174.json",
+    "count": 50
+  },
+  {
+    "id": 175,
+    "file": "lesson_175.json",
+    "count": 50
+  },
+  {
+    "id": 176,
+    "file": "lesson_176.json",
+    "count": 50
+  },
+  {
+    "id": 177,
+    "file": "lesson_177.json",
+    "count": 50
+  },
+  {
+    "id": 178,
+    "file": "lesson_178.json",
+    "count": 50
+  },
+  {
+    "id": 179,
+    "file": "lesson_179.json",
+    "count": 50
+  },
+  {
+    "id": 180,
+    "file": "lesson_180.json",
+    "count": 50
+  },
+  {
+    "id": 181,
+    "file": "lesson_181.json",
+    "count": 50
+  },
+  {
+    "id": 182,
+    "file": "lesson_182.json",
+    "count": 50
+  },
+  {
+    "id": 183,
+    "file": "lesson_183.json",
+    "count": 50
+  },
+  {
+    "id": 184,
+    "file": "lesson_184.json",
+    "count": 50
+  },
+  {
+    "id": 185,
+    "file": "lesson_185.json",
+    "count": 50
+  },
+  {
+    "id": 186,
+    "file": "lesson_186.json",
+    "count": 50
+  },
+  {
+    "id": 187,
+    "file": "lesson_187.json",
+    "count": 50
+  },
+  {
+    "id": 188,
+    "file": "lesson_188.json",
+    "count": 50
+  },
+  {
+    "id": 189,
+    "file": "lesson_189.json",
+    "count": 50
+  },
+  {
+    "id": 190,
+    "file": "lesson_190.json",
+    "count": 50
+  },
+  {
+    "id": 191,
+    "file": "lesson_191.json",
+    "count": 50
+  },
+  {
+    "id": 192,
+    "file": "lesson_192.json",
+    "count": 50
+  },
+  {
+    "id": 193,
+    "file": "lesson_193.json",
+    "count": 50
+  },
+  {
+    "id": 194,
+    "file": "lesson_194.json",
+    "count": 50
+  },
+  {
+    "id": 195,
+    "file": "lesson_195.json",
+    "count": 50
+  },
+  {
+    "id": 196,
+    "file": "lesson_196.json",
+    "count": 50
+  },
+  {
+    "id": 197,
+    "file": "lesson_197.json",
+    "count": 50
+  },
+  {
+    "id": 198,
+    "file": "lesson_198.json",
+    "count": 50
+  },
+  {
+    "id": 199,
+    "file": "lesson_199.json",
+    "count": 50
+  },
+  {
+    "id": 200,
+    "file": "lesson_200.json",
+    "count": 50
+  },
+  {
+    "id": 201,
+    "file": "lesson_201.json",
+    "count": 50
+  },
+  {
+    "id": 202,
+    "file": "lesson_202.json",
+    "count": 50
+  },
+  {
+    "id": 203,
+    "file": "lesson_203.json",
+    "count": 50
+  },
+  {
+    "id": 204,
+    "file": "lesson_204.json",
+    "count": 50
+  },
+  {
+    "id": 205,
+    "file": "lesson_205.json",
+    "count": 50
+  },
+  {
+    "id": 206,
+    "file": "lesson_206.json",
+    "count": 50
+  },
+  {
+    "id": 207,
+    "file": "lesson_207.json",
+    "count": 50
+  },
+  {
+    "id": 208,
+    "file": "lesson_208.json",
+    "count": 50
+  },
+  {
+    "id": 209,
+    "file": "lesson_209.json",
+    "count": 50
+  },
+  {
+    "id": 210,
+    "file": "lesson_210.json",
+    "count": 50
+  },
+  {
+    "id": 211,
+    "file": "lesson_211.json",
+    "count": 50
+  },
+  {
+    "id": 212,
+    "file": "lesson_212.json",
+    "count": 50
+  },
+  {
+    "id": 213,
+    "file": "lesson_213.json",
+    "count": 50
+  },
+  {
+    "id": 214,
+    "file": "lesson_214.json",
+    "count": 50
+  },
+  {
+    "id": 215,
+    "file": "lesson_215.json",
+    "count": 50
+  },
+  {
+    "id": 216,
+    "file": "lesson_216.json",
+    "count": 50
+  },
+  {
+    "id": 217,
+    "file": "lesson_217.json",
+    "count": 50
+  },
+  {
+    "id": 218,
+    "file": "lesson_218.json",
+    "count": 50
+  },
+  {
+    "id": 219,
+    "file": "lesson_219.json",
+    "count": 50
+  },
+  {
+    "id": 220,
+    "file": "lesson_220.json",
+    "count": 50
+  },
+  {
+    "id": 221,
+    "file": "lesson_221.json",
+    "count": 50
+  },
+  {
+    "id": 222,
+    "file": "lesson_222.json",
+    "count": 50
+  },
+  {
+    "id": 223,
+    "file": "lesson_223.json",
+    "count": 50
+  },
+  {
+    "id": 224,
+    "file": "lesson_224.json",
+    "count": 50
+  },
+  {
+    "id": 225,
+    "file": "lesson_225.json",
+    "count": 50
+  },
+  {
+    "id": 226,
+    "file": "lesson_226.json",
+    "count": 50
+  },
+  {
+    "id": 227,
+    "file": "lesson_227.json",
+    "count": 50
+  },
+  {
+    "id": 228,
+    "file": "lesson_228.json",
+    "count": 50
+  },
+  {
+    "id": 229,
+    "file": "lesson_229.json",
+    "count": 50
+  },
+  {
+    "id": 230,
+    "file": "lesson_230.json",
+    "count": 50
+  },
+  {
+    "id": 231,
+    "file": "lesson_231.json",
+    "count": 50
+  },
+  {
+    "id": 232,
+    "file": "lesson_232.json",
+    "count": 50
+  },
+  {
+    "id": 233,
+    "file": "lesson_233.json",
+    "count": 50
+  },
+  {
+    "id": 234,
+    "file": "lesson_234.json",
+    "count": 50
+  },
+  {
+    "id": 235,
+    "file": "lesson_235.json",
+    "count": 50
+  },
+  {
+    "id": 236,
+    "file": "lesson_236.json",
+    "count": 50
+  },
+  {
+    "id": 237,
+    "file": "lesson_237.json",
+    "count": 50
+  },
+  {
+    "id": 238,
+    "file": "lesson_238.json",
+    "count": 50
+  },
+  {
+    "id": 239,
+    "file": "lesson_239.json",
+    "count": 50
+  },
+  {
+    "id": 240,
+    "file": "lesson_240.json",
+    "count": 50
+  },
+  {
+    "id": 241,
+    "file": "lesson_241.json",
+    "count": 50
+  },
+  {
+    "id": 242,
+    "file": "lesson_242.json",
+    "count": 50
+  },
+  {
+    "id": 243,
+    "file": "lesson_243.json",
+    "count": 42
   }
 ]
